@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6131bab66a4367701fbe774c"
+  },
+  "khoa": "CNTT",
+  "macn": "KHMT",
+  "tencn": "Khoa học Máy tính"
+},{
+  "_id": {
+    "$oid": "6131bae96a4367701fbe774d"
+  },
+  "khoa": "CNTT",
+  "macn": "KTPM",
+  "tencn": "Kỹ thuật Phần mềm"
+},{
+  "_id": {
+    "$oid": "6131bae96a4367701fbe774e"
+  },
+  "khoa": "CNTT",
+  "macn": "HTTT",
+  "tencn": "Hệ thống Thông tin"
+},{
+  "_id": {
+    "$oid": "6131d7c56a4367701fbe7752"
+  },
+  "khoa": "CNTT",
+  "macn": "CNTT",
+  "tencn": "Công nghệ Thông tin"
+}]

@@ -1,0 +1,30 @@
+{
+    "indexes": [
+        {
+            "v": {
+                "$numberInt": "2"
+            },
+            "key": {
+                "_id": {
+                    "$numberInt": "1"
+                }
+            },
+            "name": "_id_"
+        },
+        {
+            "v": {
+                "$numberInt": "2"
+            },
+            "key": {
+                "mssv": {
+                    "$numberInt": "1"
+                }
+            },
+            "name": "mssv_1",
+            "unique": true
+        }
+    ],
+    "uuid": "f0ec04c75b264982af19b1b072a040ae",
+    "collectionName": "dsSinhvien",
+    "type": "collection"
+}

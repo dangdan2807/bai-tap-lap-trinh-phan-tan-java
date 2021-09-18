@@ -1,0 +1,185 @@
+[{
+  "_id": {
+    "$oid": "6131bab66a4367701fbe774c"
+  },
+  "macn": "KHMT",
+  "tencn": "Khoa học Máy tính",
+  "dsLophoc": [
+    {
+      "mslop": "DHKHMT15A",
+      "sisoDukien": 100,
+      "tenlop": "Đại học Khoa học Máy tính 15A"
+    },
+    {
+      "mslop": "DHKHMT13C",
+      "sisoDukien": 100,
+      "tenlop": "Đại học Khoa học Máy tính 13C"
+    },
+    {
+      "mslop": "DHKHMT13B",
+      "sisoDukien": 80,
+      "tenlop": "Đại học Khoa học Máy tính 13B"
+    },
+    {
+      "mslop": "DHKHMT14A",
+      "sisoDukien": 80,
+      "tenlop": "Đại học Khoa học Máy tính 14A"
+    },
+    {
+      "mslop": "DHKHMT15C",
+      "sisoDukien": 60,
+      "tenlop": "Đại học Khoa học Máy tính 15C"
+    },
+    {
+      "mslop": "DHKHMT15B",
+      "sisoDukien": 60,
+      "tenlop": "Đại học Khoa học Máy tính 15B"
+    },
+    {
+      "mslop": "DHKHMT14B",
+      "sisoDukien": 120,
+      "tenlop": "Đại học Khoa học Máy tính 14B"
+    },
+    {
+      "mslop": "DHKHMT14",
+      "sisoDukien": 120,
+      "tenlop": "Đại học Khoa học Máy tính 14"
+    },
+    {
+      "mslop": "DHKHMT13A",
+      "sisoDukien": 80,
+      "tenlop": "Đại học Khoa học Máy tính 13A"
+    }
+  ],
+  "khoa": "CNTT"
+},{
+  "_id": {
+    "$oid": "6131bae96a4367701fbe774d"
+  },
+  "macn": "KTPM",
+  "tencn": "Kỹ thuật Phần mềm",
+  "dsLophoc": [
+    {
+      "mslop": "DHKTPM14BCLC",
+      "sisoDukien": 45,
+      "tenlop": "Đại học kỹ thuật phần mềm 14B Chất lượng cao"
+    },
+    {
+      "mslop": "DHKTPM13A",
+      "sisoDukien": 80,
+      "tenlop": "Đại học kỹ thuật phần mềm 13A"
+    },
+    {
+      "mslop": "DHKTPM13C",
+      "sisoDukien": 60,
+      "tenlop": "Đại học kỹ thuật phần mềm 13C"
+    },
+    {
+      "mslop": "DHKTPM15B",
+      "sisoDukien": 100,
+      "tenlop": "Đại học kỹ thuật phần mềm 15B"
+    },
+    {
+      "mslop": "DHKTPM14",
+      "sisoDukien": 60,
+      "tenlop": "Đại học kỹ thuật phần mềm 14"
+    },
+    {
+      "mslop": "DHKTPM13B",
+      "sisoDukien": 120,
+      "tenlop": "Đại học kỹ thuật phần mềm 13B"
+    },
+    {
+      "mslop": "DHKTPM15C",
+      "sisoDukien": 60,
+      "tenlop": "Đại học kỹ thuật phần mềm 15C"
+    },
+    {
+      "mslop": "DHKTPM13BCLC",
+      "sisoDukien": 45,
+      "tenlop": "Đại học kỹ thuật phần mềm 13B Chất lượng cao"
+    },
+    {
+      "mslop": "DHKTPM15BCLC",
+      "sisoDukien": 40,
+      "tenlop": "Đại học kỹ thuật phần mềm 15B Chất lượng cao"
+    },
+    {
+      "mslop": "DHKTPM14B",
+      "sisoDukien": 80,
+      "tenlop": "Đại học kỹ thuật phần mềm 14B"
+    },
+    {
+      "mslop": "DHKTPM12BCLC",
+      "sisoDukien": 40,
+      "tenlop": "Đại học kỹ thuật phần mềm 12B Chất lượng cao"
+    },
+    {
+      "mslop": "DHKTPM14CCLC",
+      "sisoDukien": 45,
+      "tenlop": "Đại học kỹ thuật phần mềm 14C Chất lượng cao"
+    },
+    {
+      "mslop": "DHKTPM15ACLC",
+      "sisoDukien": 40,
+      "tenlop": "Đại học kỹ thuật phần mềm 15A Chất lượng cao"
+    },
+    {
+      "mslop": "DHKTPM15A",
+      "sisoDukien": 80,
+      "tenlop": "Đại học kỹ thuật phần mềm 15A"
+    },
+    {
+      "mslop": "DHKTPM14ACLC",
+      "sisoDukien": 45,
+      "tenlop": "Đại học kỹ thuật phần mềm 14A Chất lượng cao"
+    },
+    {
+      "mslop": "DHKTPM14A",
+      "sisoDukien": 100,
+      "tenlop": "Đại học kỹ thuật phần mềm 14A"
+    },
+    {
+      "mslop": "DHKTPM13CCLC",
+      "sisoDukien": 40,
+      "tenlop": "Đại học kỹ thuật phần mềm 13C Chất lượng cao"
+    },
+    {
+      "mslop": "DHKTPM13ACLC",
+      "sisoDukien": 40,
+      "tenlop": "Đại học kỹ thuật phần mềm 13A Chất lượng cao"
+    },
+    {
+      "mslop": "DHKTPM15CCLC",
+      "sisoDukien": 45,
+      "tenlop": "Đại học kỹ thuật phần mềm 15C Chất lượng cao"
+    }
+  ],
+  "khoa": "CNTT"
+},{
+  "_id": {
+    "$oid": "6131bae96a4367701fbe774e"
+  },
+  "macn": "HTTT",
+  "tencn": "Hệ thống Thông tin",
+  "dsLophoc": [
+    {
+      "mslop": "DHHTTT15A",
+      "tenlop": "Đại học Hệ thống thông tin 15A",
+      "sisoDukien": 80
+    },
+    {
+      "mslop": "DHHTTT15B",
+      "tenlop": "Đại học Hệ thống thông tin 15B",
+      "sisoDukien": 80
+    }
+  ],
+  "khoa": "CNTT"
+},{
+  "_id": {
+    "$oid": "6131d7c56a4367701fbe7752"
+  },
+  "macn": "CNTT",
+  "tencn": "Công nghệ Thông tin",
+  "khoa": "CNTT"
+}]

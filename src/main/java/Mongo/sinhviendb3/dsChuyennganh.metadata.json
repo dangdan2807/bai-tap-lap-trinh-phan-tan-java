@@ -1,0 +1,30 @@
+{
+    "indexes": [
+        {
+            "v": {
+                "$numberInt": "2"
+            },
+            "key": {
+                "_id": {
+                    "$numberInt": "1"
+                }
+            },
+            "name": "_id_"
+        },
+        {
+            "v": {
+                "$numberInt": "2"
+            },
+            "key": {
+                "macn": {
+                    "$numberInt": "1"
+                }
+            },
+            "name": "macn_1",
+            "unique": true
+        }
+    ],
+    "uuid": "04ffb18763694e0382c6499b30ac456c",
+    "collectionName": "dsChuyennganh",
+    "type": "collection"
+}

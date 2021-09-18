@@ -1,0 +1,5144 @@
+[{
+  "_id": {
+    "$oid": "6131a2a278b3264add832588"
+  },
+  "diemTB": 9.5,
+  "dsDienthoai": [
+    "0947536844"
+  ],
+  "email": "Chuot@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Việt",
+  "malop": "DHKTPM15B",
+  "mssv": "19296011",
+  "ngaysinh": {
+    "$date": "2001-09-15T00:00:00Z"
+  },
+  "ten": "Anh"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832589"
+  },
+  "diemTB": 8.5,
+  "dsDienthoai": [
+    "0338618310"
+  ],
+  "email": "henry412@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Huỳnh Chí",
+  "malop": "DHKTPM15B",
+  "mssv": "19405011",
+  "ngaysinh": {
+    "$date": "2001-09-19T00:00:00Z"
+  },
+  "ten": "Bảo"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83258a"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0915362548"
+  ],
+  "email": "thaibinh@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Thái",
+  "malop": "DHKHMT13A",
+  "mssv": "17673861",
+  "ngaysinh": {
+    "$date": "1999-09-17T00:00:00Z"
+  },
+  "ten": "Bình"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83258b"
+  },
+  "diemTB": 5.75,
+  "dsDienthoai": [
+    "0343688297"
+  ],
+  "email": "nqcuong.c3tqcap@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Quốc",
+  "malop": "DHKTPM15B",
+  "mssv": "19499411",
+  "ngaysinh": {
+    "$date": "2001-03-15T00:00:00Z"
+  },
+  "ten": "Cường"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83258c"
+  },
+  "diemTB": 5.25,
+  "dsDienthoai": [
+    "0795815322"
+  ],
+  "email": "minhchaunguyen@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Thị Minh",
+  "malop": "DHKTPM15A",
+  "mssv": "19202821",
+  "ngaysinh": {
+    "$date": "2001-01-24T00:00:00Z"
+  },
+  "ten": "Châu"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83258d"
+  },
+  "diemTB": 6.5,
+  "dsDienthoai": [
+    "0967127210"
+  ],
+  "email": "chinhhoang@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hoàng Văn",
+  "malop": "DHKTPM15B",
+  "mssv": "19131531",
+  "ngaysinh": {
+    "$date": "2001-12-22T00:00:00Z"
+  },
+  "ten": "Chinh"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83258e"
+  },
+  "diemTB": 6,
+  "dsDienthoai": [
+    "0329807464"
+  ],
+  "email": "fantasiafer@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Văn",
+  "malop": "DHKTPM15A",
+  "mssv": "19433931",
+  "ngaysinh": {
+    "$date": "2001-02-03T00:00:00Z"
+  },
+  "ten": "Chính"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83258f"
+  },
+  "diemTB": 9.5,
+  "dsDienthoai": [],
+  "email": "fantasiafer@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hoàng Tiến",
+  "malop": "DHKTPM13A",
+  "mssv": "17828981",
+  "ngaysinh": {
+    "$date": "1999-12-03T00:00:00Z"
+  },
+  "ten": "Dũng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832590"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0328038496"
+  ],
+  "email": "ngodung4@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Ngô Quốc",
+  "malop": "DHKHMT15A",
+  "mssv": "19396521",
+  "ngaysinh": {
+    "$date": "2001-06-13T00:00:00Z"
+  },
+  "ten": "Dũng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832591"
+  },
+  "diemTB": 9,
+  "dsDienthoai": [
+    "0948178446"
+  ],
+  "email": "duy712ngu@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Đức",
+  "malop": "DHKTPM15B",
+  "mssv": "19559371",
+  "ngaysinh": {
+    "$date": "2001-12-23T00:00:00Z"
+  },
+  "ten": "Duy"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832592"
+  },
+  "diemTB": 5,
+  "dsDienthoai": [
+    "0983609208"
+  ],
+  "email": "duy20011@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Hoàng",
+  "malop": "DHKTPM15B",
+  "mssv": "19503661",
+  "ngaysinh": {
+    "$date": "2001-11-23T00:00:00Z"
+  },
+  "ten": "Duy"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832593"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0168261352"
+  ],
+  "email": "nvlduy12c4@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Vũ Lâm",
+  "malop": "DHKHMT14",
+  "mssv": "18745671",
+  "ngaysinh": {
+    "$date": "2000-08-12T00:00:00Z"
+  },
+  "ten": "Duy"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832594"
+  },
+  "diemTB": 7.25,
+  "dsDienthoai": [
+    "0867490478"
+  ],
+  "email": "quangdat123@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Quang",
+  "malop": "DHKTPM15A",
+  "mssv": "19362351",
+  "ngaysinh": {
+    "$date": "2001-06-28T00:00:00Z"
+  },
+  "ten": "Đạt"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832595"
+  },
+  "diemTB": 8.25,
+  "dsDienthoai": [
+    "0965494140"
+  ],
+  "email": "datngo2032@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Ngô Văn",
+  "malop": "DHKTPM15B",
+  "mssv": "19636091",
+  "ngaysinh": {
+    "$date": "2001-04-18T00:00:00Z"
+  },
+  "ten": "Đạt"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832596"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0978477703"
+  ],
+  "email": "datnguye@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Tiến",
+  "malop": "DHKTPM15B",
+  "mssv": "19525501",
+  "ngaysinh": {
+    "$date": "2001-10-05T00:00:00Z"
+  },
+  "ten": "Đạt"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832597"
+  },
+  "diemTB": 7.25,
+  "dsDienthoai": [
+    "0772446566"
+  ],
+  "email": "khongten2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Uông Tiến",
+  "malop": "DHKTPM15B",
+  "mssv": "19112031",
+  "ngaysinh": {
+    "$date": "2001-07-02T00:00:00Z"
+  },
+  "ten": "Đức"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832598"
+  },
+  "diemTB": 6.5,
+  "dsDienthoai": [
+    "0942074191"
+  ],
+  "email": "atgba@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phan Nhật",
+  "malop": "DHKHMT15B",
+  "mssv": "19930681",
+  "ngaysinh": {
+    "$date": "2001-04-22T00:00:00Z"
+  },
+  "ten": "Hào"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832599"
+  },
+  "diemTB": 7,
+  "dsDienthoai": [
+    "0824601980"
+  ],
+  "email": "thihaonguyen1@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Thị",
+  "malop": "DHKTPM15B",
+  "mssv": "19534911",
+  "ngaysinh": {
+    "$date": "2001-03-25T00:00:00Z"
+  },
+  "ten": "Hảo"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83259a"
+  },
+  "diemTB": 6,
+  "dsDienthoai": [
+    "0978289481",
+    "0819490559"
+  ],
+  "email": "HaoNguyen.241@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Trọng",
+  "malop": "DHKTPM13A",
+  "mssv": "17595581",
+  "ngaysinh": {
+    "$date": "1999-01-26T00:00:00Z"
+  },
+  "ten": "Hảo"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83259b"
+  },
+  "diemTB": 9.5,
+  "dsDienthoai": [
+    "0965236555"
+  ],
+  "email": "psphau@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Văn",
+  "malop": "DHKTPM15A",
+  "mssv": "19757591",
+  "ngaysinh": {
+    "$date": "2001-05-04T00:00:00Z"
+  },
+  "ten": "Hậu"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83259c"
+  },
+  "diemTB": 4.75,
+  "dsDienthoai": [
+    "0364973888"
+  ],
+  "email": "leminhhieu7@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Minh",
+  "malop": "DHKTPM15B",
+  "mssv": "19729901",
+  "ngaysinh": {
+    "$date": "2001-08-15T00:00:00Z"
+  },
+  "ten": "Hiếu"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83259d"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0366497800",
+    "0387773717"
+  ],
+  "email": "tino@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Chí",
+  "malop": "DHKTPM15B",
+  "mssv": "19608231",
+  "ngaysinh": {
+    "$date": "2001-08-30T00:00:00Z"
+  },
+  "ten": "Hiếu"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83259e"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0368783420"
+  ],
+  "email": "hieuduy1@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Duy",
+  "malop": "DHKTPM15B",
+  "mssv": "19907601",
+  "ngaysinh": {
+    "$date": "2001-01-20T00:00:00Z"
+  },
+  "ten": "Hiếu"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83259f"
+  },
+  "diemTB": 7,
+  "dsDienthoai": [
+    "0394787764"
+  ],
+  "email": "Thangbedax@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Võ Trung",
+  "malop": "DHKTPM15B",
+  "mssv": "19990501",
+  "ngaysinh": {
+    "$date": "2001-01-16T00:00:00Z"
+  },
+  "ten": "Hiếu"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325a0"
+  },
+  "diemTB": 6.25,
+  "dsDienthoai": [
+    "0982701798"
+  ],
+  "email": "jonnyli151@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Quốc",
+  "malop": "DHKTPM15A",
+  "mssv": "19837111",
+  "ngaysinh": {
+    "$date": "2001-03-14T00:00:00Z"
+  },
+  "ten": "Hiệu"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325a1"
+  },
+  "diemTB": 8,
+  "dsDienthoai": [
+    "0978581659"
+  ],
+  "email": "tronghinh2809@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phan Trọng",
+  "malop": "DHKTPM13A",
+  "mssv": "17367031",
+  "ngaysinh": {
+    "$date": "1999-09-28T00:00:00Z"
+  },
+  "ten": "Hinh"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325a2"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0966904885"
+  ],
+  "email": "thanhhoai160@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Thanh",
+  "malop": "DHKTPM15A",
+  "mssv": "19260921",
+  "ngaysinh": {
+    "$date": "2001-06-21T00:00:00Z"
+  },
+  "ten": "Hoài"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325a3"
+  },
+  "diemTB": 7.5,
+  "dsDienthoai": [
+    "0368232307"
+  ],
+  "email": "huyhoang14@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Đỗ Huy",
+  "malop": "DHKTPM15B",
+  "mssv": "19136671",
+  "ngaysinh": {
+    "$date": "2001-06-01T00:00:00Z"
+  },
+  "ten": "Hoàng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325a4"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0973704864",
+    "0393575926"
+  ],
+  "email": "hoangk@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Văn",
+  "malop": "DHKTPM15B",
+  "mssv": "19363741",
+  "ngaysinh": {
+    "$date": "2001-11-21T00:00:00Z"
+  },
+  "ten": "Hoàng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325a5"
+  },
+  "diemTB": 5.5,
+  "dsDienthoai": [
+    "0169357454"
+  ],
+  "email": "imtd@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Đông",
+  "malop": "DHKHMT14",
+  "mssv": "18523361",
+  "ngaysinh": {
+    "$date": "2000-08-26T00:00:00Z"
+  },
+  "ten": "Hoàng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325a6"
+  },
+  "diemTB": 8,
+  "dsDienthoai": [
+    "0942221798"
+  ],
+  "email": "thaihoc@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Thái",
+  "malop": "DHKTPM15B",
+  "mssv": "19689581",
+  "ngaysinh": {
+    "$date": "2001-11-14T00:00:00Z"
+  },
+  "ten": "Học"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325a7"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0122620947"
+  ],
+  "email": "pvhuan552@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phan Văn",
+  "malop": "DHKTPM14",
+  "mssv": "18643721",
+  "ngaysinh": {
+    "$date": "2000-08-17T00:00:00Z"
+  },
+  "ten": "Huấn"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325a8"
+  },
+  "diemTB": 5.75,
+  "dsDienthoai": [
+    "0907498803"
+  ],
+  "email": "thanhung@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Thân Trọng",
+  "malop": "DHKTPM13A",
+  "mssv": "17310141",
+  "ngaysinh": {
+    "$date": "1999-12-16T00:00:00Z"
+  },
+  "ten": "Hùng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325a9"
+  },
+  "diemTB": 7.75,
+  "dsDienthoai": [
+    "0342409371"
+  ],
+  "email": "ndmhuy.c3tqcap@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Dương Minh",
+  "malop": "DHKTPM15A",
+  "mssv": "19933421",
+  "ngaysinh": {
+    "$date": "2001-01-14T00:00:00Z"
+  },
+  "ten": "Huy"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325aa"
+  },
+  "diemTB": 6.25,
+  "dsDienthoai": [
+    "0943853797"
+  ],
+  "email": "daminhnguyenh@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn",
+  "malop": "DHKTPM15B",
+  "mssv": "19166181",
+  "ngaysinh": {
+    "$date": "2001-02-21T00:00:00Z"
+  },
+  "ten": "Hưng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325ab"
+  },
+  "diemTB": 5.75,
+  "dsDienthoai": [
+    "0708119447",
+    "0337857570"
+  ],
+  "email": "bqhuu130@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Bùi Quang",
+  "malop": "DHKTPM15B",
+  "mssv": "19166151",
+  "ngaysinh": {
+    "$date": "2001-12-28T00:00:00Z"
+  },
+  "ten": "Hữu"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325ac"
+  },
+  "diemTB": 5.5,
+  "dsDienthoai": [
+    "0339194890"
+  ],
+  "email": "vuaharem@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Anh",
+  "malop": "DHKTPM15B",
+  "mssv": "19754171",
+  "ngaysinh": {
+    "$date": "2001-11-10T00:00:00Z"
+  },
+  "ten": "Khoa"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325ad"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0395364524"
+  ],
+  "email": "channeltak2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Anh",
+  "malop": "DHKTPM15B",
+  "mssv": "19624071",
+  "ngaysinh": {
+    "$date": "2001-08-20T00:00:00Z"
+  },
+  "ten": "Khoa"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325ae"
+  },
+  "diemTB": 9.75,
+  "dsDienthoai": [
+    "0945391881"
+  ],
+  "email": "ngocthau@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Văn",
+  "malop": "DHKTPM15B",
+  "mssv": "19113331",
+  "ngaysinh": {
+    "$date": "2001-09-20T00:00:00Z"
+  },
+  "ten": "Lâm"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325af"
+  },
+  "diemTB": 8.5,
+  "dsDienthoai": [
+    "0762411115"
+  ],
+  "email": "lamdavid@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Vương Ánh",
+  "malop": "DHKTPM15A",
+  "mssv": "19957311",
+  "ngaysinh": {
+    "$date": "2001-03-23T00:00:00Z"
+  },
+  "ten": "Lâm"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325b0"
+  },
+  "diemTB": 9.75,
+  "dsDienthoai": [
+    "0932067737"
+  ],
+  "email": "tienlap2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Tiến",
+  "malop": "DHKTPM15A",
+  "mssv": "19362361",
+  "ngaysinh": {
+    "$date": "2001-04-02T00:00:00Z"
+  },
+  "ten": "Lập"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325b1"
+  },
+  "diemTB": 6.5,
+  "dsDienthoai": [
+    "0973553184"
+  ],
+  "email": "Lichle20051@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Hoàng",
+  "malop": "DHKTPM13B",
+  "mssv": "17436461",
+  "ngaysinh": {
+    "$date": "1999-02-11T00:00:00Z"
+  },
+  "ten": "Lịch"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325b2"
+  },
+  "diemTB": 6,
+  "dsDienthoai": [
+    "0988459265",
+    "0369306815"
+  ],
+  "email": "vanloc@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Văn",
+  "malop": "DHKTPM15B",
+  "mssv": "19627111",
+  "ngaysinh": {
+    "$date": "2001-02-19T00:00:00Z"
+  },
+  "ten": "Lộc"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325b3"
+  },
+  "diemTB": 5.75,
+  "dsDienthoai": [
+    "0362797288"
+  ],
+  "email": "ploc280@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Hữu",
+  "malop": "DHKTPM15A",
+  "mssv": "19277761",
+  "ngaysinh": {
+    "$date": "2001-03-28T00:00:00Z"
+  },
+  "ten": "Lộc"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325b4"
+  },
+  "diemTB": 9.5,
+  "dsDienthoai": [
+    "0971695983"
+  ],
+  "email": "caoaminh12an1nh2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Cao A",
+  "malop": "DHKTPM15A",
+  "mssv": "19272021",
+  "ngaysinh": {
+    "$date": "2001-06-11T00:00:00Z"
+  },
+  "ten": "Minh"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325b5"
+  },
+  "diemTB": 8.5,
+  "dsDienthoai": [
+    "0965692768"
+  ],
+  "email": "dinhnam2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nông Đình",
+  "malop": "DHKHMT15B",
+  "mssv": "19966361",
+  "ngaysinh": {
+    "$date": "1999-04-15T00:00:00Z"
+  },
+  "ten": "Nam"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325b6"
+  },
+  "diemTB": 5,
+  "dsDienthoai": [
+    "0932669104"
+  ],
+  "email": "nguyenhuynam.29@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Huy",
+  "malop": "DHKTPM15A",
+  "mssv": "19711151",
+  "ngaysinh": {
+    "$date": "2001-09-04T00:00:00Z"
+  },
+  "ten": "Nam"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325b7"
+  },
+  "diemTB": 6.75,
+  "dsDienthoai": [
+    "0965667322"
+  ],
+  "email": "nhnghi2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Hữu",
+  "malop": "DHKTPM15B",
+  "mssv": "19355021",
+  "ngaysinh": {
+    "$date": "2001-03-16T00:00:00Z"
+  },
+  "ten": "Nghị"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325b8"
+  },
+  "diemTB": 7.25,
+  "dsDienthoai": [
+    "0337857260"
+  ],
+  "email": "nguyen.vo.6112@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Võ Trần Vũ",
+  "malop": "DHKTPM15A",
+  "mssv": "19969161",
+  "ngaysinh": {
+    "$date": "2001-08-16T00:00:00Z"
+  },
+  "ten": "Nguyên"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325b9"
+  },
+  "diemTB": 5.25,
+  "dsDienthoai": [
+    "0373523384"
+  ],
+  "email": "nhannhan01052@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Thành",
+  "malop": "DHKTPM15A",
+  "mssv": "19855381",
+  "ngaysinh": {
+    "$date": "2001-10-27T00:00:00Z"
+  },
+  "ten": "Nhân"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325ba"
+  },
+  "diemTB": 6,
+  "dsDienthoai": [
+    "0369462754",
+    "0864965111"
+  ],
+  "email": "tranvannhan1@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Văn",
+  "malop": "DHKTPM15B",
+  "mssv": "19186361",
+  "ngaysinh": {
+    "$date": "2001-04-18T00:00:00Z"
+  },
+  "ten": "Nhân"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325bb"
+  },
+  "diemTB": 4.25,
+  "dsDienthoai": [
+    "0162837164"
+  ],
+  "email": "bachokut@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Đào Đức",
+  "malop": "DHKTPM13A",
+  "mssv": "17237891",
+  "ngaysinh": {
+    "$date": "1999-06-17T00:00:00Z"
+  },
+  "ten": "Nhận"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325bc"
+  },
+  "diemTB": 8.25,
+  "dsDienthoai": [
+    "0964692660"
+  ],
+  "email": "nhatluong@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lương Thanh",
+  "malop": "DHKTPM13A",
+  "mssv": "17910111",
+  "ngaysinh": {
+    "$date": "1999-05-27T00:00:00Z"
+  },
+  "ten": "Nhất"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325bd"
+  },
+  "diemTB": 8,
+  "dsDienthoai": [
+    "0163243293"
+  ],
+  "email": "hoaiphong19@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Hoài",
+  "malop": "DHKTPM13B",
+  "mssv": "17685071",
+  "ngaysinh": {
+    "$date": "1999-05-09T00:00:00Z"
+  },
+  "ten": "Phong"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325be"
+  },
+  "diemTB": 7.75,
+  "dsDienthoai": [
+    "0386267143"
+  ],
+  "email": "nguyentrgphu@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Trọng",
+  "malop": "DHKTPM15A",
+  "mssv": "19309931",
+  "ngaysinh": {
+    "$date": "2001-01-19T00:00:00Z"
+  },
+  "ten": "Phú"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325bf"
+  },
+  "diemTB": 5.5,
+  "dsDienthoai": [
+    "0166854362"
+  ],
+  "email": "danhhaphu@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hà Danh",
+  "malop": "DHKHMT14",
+  "mssv": "18783571",
+  "ngaysinh": {
+    "$date": "1999-09-27T00:00:00Z"
+  },
+  "ten": "Phúc"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325c0"
+  },
+  "diemTB": 8,
+  "dsDienthoai": [
+    "0918172260"
+  ],
+  "email": "hoangphuong291@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Đình Hoàng",
+  "malop": "DHKTPM13A",
+  "mssv": "17387631",
+  "ngaysinh": {
+    "$date": "1999-11-29T00:00:00Z"
+  },
+  "ten": "Phương"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325c1"
+  },
+  "diemTB": 6.25,
+  "dsDienthoai": [
+    "0354043418"
+  ],
+  "email": "phuongden@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phan Đình",
+  "malop": "DHKTPM15B",
+  "mssv": "19983421",
+  "ngaysinh": {
+    "$date": "2001-12-11T00:00:00Z"
+  },
+  "ten": "Phương"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325c2"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0969032967",
+    "0908907940"
+  ],
+  "email": "huyquang2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hồ Hoàng Huy",
+  "malop": "DHKHMT14",
+  "mssv": "18541291",
+  "ngaysinh": {
+    "$date": "2000-04-28T00:00:00Z"
+  },
+  "ten": "Quang"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325c3"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0342455819"
+  ],
+  "email": "nh.quang29200@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Huỳnh Nhật",
+  "malop": "DHKTPM15B",
+  "mssv": "19368641",
+  "ngaysinh": {
+    "$date": "2001-01-14T00:00:00Z"
+  },
+  "ten": "Quang"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325c4"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0387383263"
+  ],
+  "email": "tranvinhquan@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Vinh",
+  "malop": "DHKTPM15B",
+  "mssv": "19705851",
+  "ngaysinh": {
+    "$date": "2001-09-09T00:00:00Z"
+  },
+  "ten": "Quang"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325c5"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0372253293"
+  ],
+  "email": "nguyenquano@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Hoàng",
+  "malop": "DHKTPM15B",
+  "mssv": "19657921",
+  "ngaysinh": {
+    "$date": "2001-03-06T00:00:00Z"
+  },
+  "ten": "Quân"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325c6"
+  },
+  "diemTB": 8.5,
+  "dsDienthoai": [
+    "0359434872",
+    "0364973984"
+  ],
+  "email": "quoc21@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Trung",
+  "malop": "DHKTPM15A",
+  "mssv": "19488001",
+  "ngaysinh": {
+    "$date": "2001-07-13T00:00:00Z"
+  },
+  "ten": "Quốc"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325c7"
+  },
+  "diemTB": 7.75,
+  "dsDienthoai": [
+    "0856624858"
+  ],
+  "email": "sang0945312@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hoàng Văn Duy",
+  "malop": "DHKHMT15B",
+  "mssv": "19452681",
+  "ngaysinh": {
+    "$date": "2001-02-27T00:00:00Z"
+  },
+  "ten": "Sang"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325c8"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0166930452"
+  ],
+  "email": "sanglaoc@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Huỳnh",
+  "malop": "DHKHMT14",
+  "mssv": "18149451",
+  "ngaysinh": {
+    "$date": "2000-12-12T00:00:00Z"
+  },
+  "ten": "Sang"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325c9"
+  },
+  "diemTB": 8.5,
+  "dsDienthoai": [
+    "0933694933"
+  ],
+  "email": "ntpsang@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Trần Phước",
+  "malop": "DHKTPM15B",
+  "mssv": "19591941",
+  "ngaysinh": {
+    "$date": "2001-06-23T00:00:00Z"
+  },
+  "ten": "Sang"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325ca"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0378390583"
+  ],
+  "email": "sonsonsonle@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Chí",
+  "malop": "DHKTPM15B",
+  "mssv": "19449321",
+  "ngaysinh": {
+    "$date": "2001-07-24T00:00:00Z"
+  },
+  "ten": "Sơn"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325cb"
+  },
+  "diemTB": 8.5,
+  "dsDienthoai": [
+    "0362074832"
+  ],
+  "email": "trungsonlk0@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Trung",
+  "malop": "DHKHMT15B",
+  "mssv": "19111151",
+  "ngaysinh": {
+    "$date": "2001-07-13T00:00:00Z"
+  },
+  "ten": "Sơn"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325cc"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0845717331"
+  ],
+  "email": "voson1@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Võ Hoàng",
+  "malop": "DHKTPM15B",
+  "mssv": "19760131",
+  "ngaysinh": {
+    "$date": "2001-05-18T00:00:00Z"
+  },
+  "ten": "Sơn"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325cd"
+  },
+  "diemTB": 7,
+  "dsDienthoai": [
+    "0917482468"
+  ],
+  "email": "huutai2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Hữu",
+  "malop": "DHKTPM15B",
+  "mssv": "19914571",
+  "ngaysinh": {
+    "$date": "2001-01-17T00:00:00Z"
+  },
+  "ten": "Tài"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325ce"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0819490875"
+  ],
+  "email": "lvtoan.it2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Văn",
+  "malop": "DHKTPM14",
+  "mssv": "18569101",
+  "ngaysinh": {
+    "$date": "2000-12-03T00:00:00Z"
+  },
+  "ten": "Toàn"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325cf"
+  },
+  "diemTB": 7.75,
+  "dsDienthoai": [
+    "0384542530"
+  ],
+  "email": "truongdinhtoan2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trương Đình",
+  "malop": "DHKHMT14",
+  "mssv": "18660671",
+  "ngaysinh": {
+    "$date": "2000-09-25T00:00:00Z"
+  },
+  "ten": "Toàn"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325d0"
+  },
+  "diemTB": 4.5,
+  "dsDienthoai": [
+    "0356058207"
+  ],
+  "email": "anhthiendz2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Thanh",
+  "malop": "DHKHMT15A",
+  "mssv": "19824461",
+  "ngaysinh": {
+    "$date": "2001-06-08T00:00:00Z"
+  },
+  "ten": "Thiện"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325d1"
+  },
+  "diemTB": 6,
+  "dsDienthoai": [
+    "0352830920"
+  ],
+  "email": "thienthuphilie@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Thị Thiên",
+  "malop": "DHKTPM15A",
+  "mssv": "19675641",
+  "ngaysinh": {
+    "$date": "2001-03-10T00:00:00Z"
+  },
+  "ten": "Thu"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325d2"
+  },
+  "diemTB": 9.5,
+  "dsDienthoai": [
+    "0372224106"
+  ],
+  "email": "thuan22022@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Võ Minh",
+  "malop": "DHKTPM15A",
+  "mssv": "19567761",
+  "ngaysinh": {
+    "$date": "2001-01-16T00:00:00Z"
+  },
+  "ten": "Thuận"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325d3"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0817808313"
+  ],
+  "email": "nmthuan0@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Minh",
+  "malop": "DHKTPM15B",
+  "mssv": "19462451",
+  "ngaysinh": {
+    "$date": "2001-02-05T00:00:00Z"
+  },
+  "ten": "Thuận"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325d4"
+  },
+  "diemTB": 5.75,
+  "dsDienthoai": [
+    "0971639992",
+    "0386267944"
+  ],
+  "email": "trongtrong@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phan Võ",
+  "malop": "DHKTPM15A",
+  "mssv": "19293491",
+  "ngaysinh": {
+    "$date": "2001-05-18T00:00:00Z"
+  },
+  "ten": "Trọng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325d5"
+  },
+  "diemTB": 4.5,
+  "dsDienthoai": [
+    "0983586796"
+  ],
+  "email": "sieuvie@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hồ Công",
+  "malop": "DHKTPM15B",
+  "mssv": "19633051",
+  "ngaysinh": {
+    "$date": "2001-03-06T00:00:00Z"
+  },
+  "ten": "Việt"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325d6"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0329321929"
+  ],
+  "email": "truongthanhvinh@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trương Thanh",
+  "malop": "DHKTPM15B",
+  "mssv": "19637841",
+  "ngaysinh": {
+    "$date": "2001-07-25T00:00:00Z"
+  },
+  "ten": "Vinh"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325d7"
+  },
+  "diemTB": 7.75,
+  "dsDienthoai": [
+    "0931866734"
+  ],
+  "email": "mavu2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Mã",
+  "malop": "DHKTPM15B",
+  "mssv": "19270391",
+  "ngaysinh": {
+    "$date": "2001-06-27T00:00:00Z"
+  },
+  "ten": "Vũ"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325d8"
+  },
+  "diemTB": 6,
+  "dsDienthoai": [
+    "0919602777"
+  ],
+  "email": "hvud@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Hoàng",
+  "malop": "DHKTPM15A",
+  "mssv": "19316531",
+  "ngaysinh": {
+    "$date": "2001-03-13T00:00:00Z"
+  },
+  "ten": "Vũ"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325d9"
+  },
+  "diemTB": 5,
+  "dsDienthoai": [
+    "0126254862"
+  ],
+  "email": "diepvuong@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Đinh Diệp",
+  "malop": "DHKTPM14",
+  "mssv": "18170031",
+  "ngaysinh": {
+    "$date": "2000-03-08T00:00:00Z"
+  },
+  "ten": "Vương"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325da"
+  },
+  "diemTB": 4.5,
+  "dsDienthoai": [
+    "0843766330"
+  ],
+  "email": "vynguyen23200@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Minh",
+  "malop": "DHKTPM15B",
+  "mssv": "19683491",
+  "ngaysinh": {
+    "$date": "2001-06-12T00:00:00Z"
+  },
+  "ten": "Vy"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325db"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0846299993"
+  ],
+  "email": "tuananhi@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Huỳnh Tuấn",
+  "malop": "DHKTPM15B",
+  "mssv": "19941391",
+  "ngaysinh": {
+    "$date": "2001-10-31T00:00:00Z"
+  },
+  "ten": "Anh"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325dc"
+  },
+  "diemTB": 4.5,
+  "dsDienthoai": [
+    "0397530150"
+  ],
+  "email": "hoanganh141@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Hoàng",
+  "malop": "DHKTPM15B",
+  "mssv": "19654631",
+  "ngaysinh": {
+    "$date": "2000-09-02T00:00:00Z"
+  },
+  "ten": "Anh"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325dd"
+  },
+  "diemTB": 8,
+  "dsDienthoai": [
+    "0128325584"
+  ],
+  "email": "trananh12a1@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Lê Tuấn",
+  "malop": "DHKTPM14",
+  "mssv": "18222661",
+  "ngaysinh": {
+    "$date": "2000-10-30T00:00:00Z"
+  },
+  "ten": "Anh"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325de"
+  },
+  "diemTB": 4.75,
+  "dsDienthoai": [
+    "0978964807"
+  ],
+  "email": "fucb@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Phúc",
+  "malop": "DHKHMT15A",
+  "mssv": "19801981",
+  "ngaysinh": {
+    "$date": "1998-02-02T00:00:00Z"
+  },
+  "ten": "Bình"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325df"
+  },
+  "diemTB": 6,
+  "dsDienthoai": [
+    "0368795878"
+  ],
+  "email": "cong85@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phan Thành",
+  "malop": "DHKTPM15B",
+  "mssv": "19286621",
+  "ngaysinh": {
+    "$date": "2001-11-09T00:00:00Z"
+  },
+  "ten": "Công"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325e0"
+  },
+  "diemTB": 6.25,
+  "dsDienthoai": [
+    "0382572701",
+    "0564093212"
+  ],
+  "email": "tancuon@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Tấn",
+  "malop": "DHKTPM15B",
+  "mssv": "19562161",
+  "ngaysinh": {
+    "$date": "2001-08-26T00:00:00Z"
+  },
+  "ten": "Cường"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325e1"
+  },
+  "diemTB": 4.25,
+  "dsDienthoai": [
+    "0793464482"
+  ],
+  "email": "phamduy2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Lê Khánh",
+  "malop": "DHKTPM15A",
+  "mssv": "19866031",
+  "ngaysinh": {
+    "$date": "2001-10-02T00:00:00Z"
+  },
+  "ten": "Duy"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325e2"
+  },
+  "diemTB": 7.25,
+  "dsDienthoai": [
+    "0389324988"
+  ],
+  "email": "dangdan2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Đăng",
+  "malop": "DHKTPM15B",
+  "mssv": "19465471",
+  "ngaysinh": {
+    "$date": "2001-07-28T00:00:00Z"
+  },
+  "ten": "Đan"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325e3"
+  },
+  "diemTB": 9.75,
+  "dsDienthoai": [
+    "0169923801"
+  ],
+  "email": "Dat27@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Thành",
+  "malop": "DHKHMT14",
+  "mssv": "18568851",
+  "ngaysinh": {
+    "$date": "2000-10-21T00:00:00Z"
+  },
+  "ten": "Đạt"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325e4"
+  },
+  "diemTB": 5.5,
+  "dsDienthoai": [
+    "0339686446"
+  ],
+  "email": "Phamdat02012@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Thành",
+  "malop": "DHKTPM15B",
+  "mssv": "19163831",
+  "ngaysinh": {
+    "$date": "2001-09-02T00:00:00Z"
+  },
+  "ten": "Đạt"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325e5"
+  },
+  "diemTB": 6.25,
+  "dsDienthoai": [
+    "0911531895"
+  ],
+  "email": "tangtiendat@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Tằng Tiến",
+  "malop": "DHKTPM14",
+  "mssv": "18355681",
+  "ngaysinh": {
+    "$date": "2000-09-01T00:00:00Z"
+  },
+  "ten": "Đạt"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325e6"
+  },
+  "diemTB": 8.5,
+  "dsDienthoai": [
+    "0967806899",
+    "0813157176"
+  ],
+  "email": "cuctrau@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Tấn",
+  "malop": "DHKTPM15B",
+  "mssv": "19535221",
+  "ngaysinh": {
+    "$date": "2001-10-10T00:00:00Z"
+  },
+  "ten": "Đăng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325e7"
+  },
+  "diemTB": 9,
+  "dsDienthoai": [
+    "0964406702"
+  ],
+  "email": "dangbin@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Vũ Đình Khánh",
+  "malop": "DHKTPM14",
+  "mssv": "18802241",
+  "ngaysinh": {
+    "$date": "2000-01-14T00:00:00Z"
+  },
+  "ten": "Đăng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325e8"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0385142157"
+  ],
+  "email": "vandung17122@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Văn",
+  "malop": "DHKTPM15A",
+  "mssv": "19520661",
+  "ngaysinh": {
+    "$date": "2001-10-07T00:00:00Z"
+  },
+  "ten": "Đúng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325e9"
+  },
+  "diemTB": 4.5,
+  "dsDienthoai": [
+    "0165980928"
+  ],
+  "email": "12345dd@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Đỗ Đạt",
+  "malop": "DHKTPM14",
+  "mssv": "18843151",
+  "ngaysinh": {
+    "$date": "2000-10-07T00:00:00Z"
+  },
+  "ten": "Đức"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325ea"
+  },
+  "diemTB": 7.25,
+  "dsDienthoai": [
+    "0334548945"
+  ],
+  "email": "khongcotinh@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hoàng Tiến Mạnh",
+  "malop": "DHKTPM15A",
+  "mssv": "19264361",
+  "ngaysinh": {
+    "$date": "2001-06-20T00:00:00Z"
+  },
+  "ten": "Đức"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325eb"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0838607346"
+  ],
+  "email": "singungoc@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Ngô Trường",
+  "malop": "DHKTPM15A",
+  "mssv": "19718161",
+  "ngaysinh": {
+    "$date": "2001-04-01T00:00:00Z"
+  },
+  "ten": "Giang"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325ec"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0164715333"
+  ],
+  "email": "nvthienha12a8pq2@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Võ Thiên",
+  "malop": "DHKHMT14",
+  "mssv": "18608371",
+  "ngaysinh": {
+    "$date": "2000-07-24T00:00:00Z"
+  },
+  "ten": "Hà"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325ed"
+  },
+  "diemTB": 5.25,
+  "dsDienthoai": [
+    "0166297440"
+  ],
+  "email": "thaianhhao@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Thái Anh",
+  "malop": "DHKTPM14",
+  "mssv": "18488891",
+  "ngaysinh": {
+    "$date": "2000-07-08T00:00:00Z"
+  },
+  "ten": "Hào"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325ee"
+  },
+  "diemTB": 4.75,
+  "dsDienthoai": [
+    "0846311277"
+  ],
+  "email": "vuonghao14@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Vương",
+  "malop": "DHKTPM15B",
+  "mssv": "19737561",
+  "ngaysinh": {
+    "$date": "2001-06-20T00:00:00Z"
+  },
+  "ten": "Hạo"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325ef"
+  },
+  "diemTB": 6.25,
+  "dsDienthoai": [
+    "0165884736"
+  ],
+  "email": "ngochien15092@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Ngọc",
+  "malop": "DHKTPM14",
+  "mssv": "18790511",
+  "ngaysinh": {
+    "$date": "2000-01-09T00:00:00Z"
+  },
+  "ten": "Hiển"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325f0"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0979042843"
+  ],
+  "email": "10lop96phungbuitrongh@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phùng Bùi Trọng",
+  "malop": "DHKTPM15A",
+  "mssv": "19243591",
+  "ngaysinh": {
+    "$date": "2001-01-01T00:00:00Z"
+  },
+  "ten": "Hiếu"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325f1"
+  },
+  "diemTB": 4.5,
+  "dsDienthoai": [
+    "0869648870"
+  ],
+  "email": "hirosaki@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Minh",
+  "malop": "DHKTPM15A",
+  "mssv": "19658351",
+  "ngaysinh": {
+    "$date": "2001-09-06T00:00:00Z"
+  },
+  "ten": "Hiếu"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325f2"
+  },
+  "diemTB": 5,
+  "dsDienthoai": [
+    "0377723969"
+  ],
+  "email": "vohieu7@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Võ Minh",
+  "malop": "DHKTPM15B",
+  "mssv": "19434121",
+  "ngaysinh": {
+    "$date": "2001-06-10T00:00:00Z"
+  },
+  "ten": "Hiếu"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325f3"
+  },
+  "diemTB": 4.75,
+  "dsDienthoai": [
+    "0986439811"
+  ],
+  "email": "hoan44@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Mai Nhật",
+  "malop": "DHKTPM15A",
+  "mssv": "19566081",
+  "ngaysinh": {
+    "$date": "2001-12-05T00:00:00Z"
+  },
+  "ten": "Hoàng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325f4"
+  },
+  "diemTB": 5.5,
+  "dsDienthoai": [
+    "0944708156"
+  ],
+  "email": "hungviper@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Minh",
+  "malop": "DHKTPM15A",
+  "mssv": "19348041",
+  "ngaysinh": {
+    "$date": "2001-03-02T00:00:00Z"
+  },
+  "ten": "Hùng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325f5"
+  },
+  "diemTB": 6.75,
+  "dsDienthoai": [
+    "0917190242"
+  ],
+  "email": "tranchihung.2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Chí",
+  "malop": "DHKHMT14",
+  "mssv": "18983201",
+  "ngaysinh": {
+    "$date": "2000-08-05T00:00:00Z"
+  },
+  "ten": "Hùng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325f6"
+  },
+  "diemTB": 9,
+  "dsDienthoai": [
+    "0964505419"
+  ],
+  "email": "huyphamhoan@icloud.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Hoàng",
+  "malop": "DHKTPM15A",
+  "mssv": "19885611",
+  "ngaysinh": {
+    "$date": "2001-09-18T00:00:00Z"
+  },
+  "ten": "Huy"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325f7"
+  },
+  "diemTB": 9,
+  "dsDienthoai": [
+    "0902642649"
+  ],
+  "email": "tonghuy@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Tống Gia",
+  "malop": "DHKTPM15B",
+  "mssv": "19523761",
+  "ngaysinh": {
+    "$date": "2001-08-02T00:00:00Z"
+  },
+  "ten": "Huy"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325f8"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0984218383"
+  ],
+  "email": "huy182@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Vũ Quang",
+  "malop": "DHKTPM15A",
+  "mssv": "19551631",
+  "ngaysinh": {
+    "$date": "2001-08-22T00:00:00Z"
+  },
+  "ten": "Huy"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325f9"
+  },
+  "diemTB": 5.75,
+  "dsDienthoai": [
+    "0169935777"
+  ],
+  "email": "hungtans@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Tấn",
+  "malop": "DHKTPM14",
+  "mssv": "18203901",
+  "ngaysinh": {
+    "$date": "2000-08-10T00:00:00Z"
+  },
+  "ten": "Hưng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325fa"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0833352762"
+  ],
+  "email": "huynhduykha2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Huỳnh Duy",
+  "malop": "DHKTPM15A",
+  "mssv": "19481371",
+  "ngaysinh": {
+    "$date": "2001-10-28T00:00:00Z"
+  },
+  "ten": "Kha"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325fb"
+  },
+  "diemTB": 6.75,
+  "dsDienthoai": [
+    "0983860448"
+  ],
+  "email": "luut@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lưu Tuấn",
+  "malop": "DHKTPM14",
+  "mssv": "18836201",
+  "ngaysinh": {
+    "$date": "2000-12-24T00:00:00Z"
+  },
+  "ten": "Kha"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325fc"
+  },
+  "diemTB": 7,
+  "dsDienthoai": [
+    "0978763637"
+  ],
+  "email": "ledikhang2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Dĩ",
+  "malop": "DHKTPM14",
+  "mssv": "18534971",
+  "ngaysinh": {
+    "$date": "2000-05-28T00:00:00Z"
+  },
+  "ten": "Khang"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325fd"
+  },
+  "diemTB": 9,
+  "dsDienthoai": [
+    "0374805996"
+  ],
+  "email": "dkhanh9@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Duy",
+  "malop": "DHKHMT14",
+  "mssv": "18718541",
+  "ngaysinh": {
+    "$date": "2000-11-16T00:00:00Z"
+  },
+  "ten": "Khánh"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325fe"
+  },
+  "diemTB": 7,
+  "dsDienthoai": [
+    "0908725223"
+  ],
+  "email": "nhatkhuong2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Đặng Nhật",
+  "malop": "DHKTPM15A",
+  "mssv": "19411711",
+  "ngaysinh": {
+    "$date": "2001-07-29T00:00:00Z"
+  },
+  "ten": "Khương"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add8325ff"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0367056124"
+  ],
+  "email": "Huynhvohoangl@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Huỳnh Võ Hoàng",
+  "malop": "DHKTPM15B",
+  "mssv": "19802401",
+  "ngaysinh": {
+    "$date": "2001-12-12T00:00:00Z"
+  },
+  "ten": "Long"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832600"
+  },
+  "diemTB": 6.75,
+  "dsDienthoai": [
+    "0334172699"
+  ],
+  "email": "maingoclong@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Mai Ngọc",
+  "malop": "DHKTPM15A",
+  "mssv": "19590081",
+  "ngaysinh": {
+    "$date": "2001-08-04T00:00:00Z"
+  },
+  "ten": "Long"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832601"
+  },
+  "diemTB": 7.25,
+  "dsDienthoai": [
+    "0124676200"
+  ],
+  "email": "long.ngo0@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Ngô Quang",
+  "malop": "DHKTPM14",
+  "mssv": "18730211",
+  "ngaysinh": {
+    "$date": "2000-04-11T00:00:00Z"
+  },
+  "ten": "Long"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832602"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0845155871",
+    "0338188518"
+  ],
+  "email": "vugialong@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Vũ Gia",
+  "malop": "DHKHMT14",
+  "mssv": "18284951",
+  "ngaysinh": {
+    "$date": "2000-04-21T00:00:00Z"
+  },
+  "ten": "Long"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832603"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0374079516"
+  ],
+  "email": "nguyenbaloc502@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Bá",
+  "malop": "DHKTPM15A",
+  "mssv": "19797181",
+  "ngaysinh": {
+    "$date": "2001-04-28T00:00:00Z"
+  },
+  "ten": "Lộc"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832604"
+  },
+  "diemTB": 6.75,
+  "dsDienthoai": [
+    "0829340714"
+  ],
+  "email": "nguyenthanhluan@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Thành",
+  "malop": "DHKTPM15B",
+  "mssv": "19939751",
+  "ngaysinh": {
+    "$date": "2001-09-06T00:00:00Z"
+  },
+  "ten": "Luân"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832605"
+  },
+  "diemTB": 8.5,
+  "dsDienthoai": [
+    "0167244175"
+  ],
+  "email": "nguyenhuynhcongly17092@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Huỳnh Công",
+  "malop": "DHKTPM14",
+  "mssv": "18582231",
+  "ngaysinh": {
+    "$date": "2000-04-05T00:00:00Z"
+  },
+  "ten": "Lý"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832606"
+  },
+  "diemTB": 6.5,
+  "dsDienthoai": [
+    "0888770858"
+  ],
+  "email": "buiminh.@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Bùi Bình",
+  "malop": "DHKHMT14",
+  "mssv": "18184761",
+  "ngaysinh": {
+    "$date": "2000-02-01T00:00:00Z"
+  },
+  "ten": "Minh"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832607"
+  },
+  "diemTB": 4.75,
+  "dsDienthoai": [
+    "0369548342"
+  ],
+  "email": "buithanhnam26092@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Bùi Thành",
+  "malop": "DHKTPM14",
+  "mssv": "18352501",
+  "ngaysinh": {
+    "$date": "2000-07-25T00:00:00Z"
+  },
+  "ten": "Nam"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832608"
+  },
+  "diemTB": 9.75,
+  "dsDienthoai": [
+    "0768817474"
+  ],
+  "email": "trungngoc9@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Đỗ Trung",
+  "malop": "DHKTPM15A",
+  "mssv": "19176131",
+  "ngaysinh": {
+    "$date": "2001-08-21T00:00:00Z"
+  },
+  "ten": "Ngọc"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832609"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0378202394",
+    "0938307660"
+  ],
+  "email": "123456act@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Công",
+  "malop": "DHKHMT15A",
+  "mssv": "19740961",
+  "ngaysinh": {
+    "$date": "2001-09-18T00:00:00Z"
+  },
+  "ten": "Nguyên"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83260a"
+  },
+  "diemTB": 5,
+  "dsDienthoai": [
+    "0969111203"
+  ],
+  "email": "nhatnguyen13@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Phạm Công",
+  "malop": "DHKTPM15A",
+  "mssv": "19816481",
+  "ngaysinh": {
+    "$date": "2001-09-07T00:00:00Z"
+  },
+  "ten": "Nhật"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83260b"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0397548294"
+  ],
+  "email": "vothanhnhothcsanphu@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Võ Thành",
+  "malop": "DHKTPM15A",
+  "mssv": "19390841",
+  "ngaysinh": {
+    "$date": "2001-08-09T00:00:00Z"
+  },
+  "ten": "Nhớ"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83260c"
+  },
+  "diemTB": 6.75,
+  "dsDienthoai": [
+    "0121439539"
+  ],
+  "email": "Nhut0@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Minh",
+  "malop": "DHKHMT14",
+  "mssv": "18670421",
+  "ngaysinh": {
+    "$date": "2000-06-08T00:00:00Z"
+  },
+  "ten": "Nhứt"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83260d"
+  },
+  "diemTB": 9,
+  "dsDienthoai": [
+    "0396767612"
+  ],
+  "email": "huyphanpham29092@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Huy",
+  "malop": "DHKTPM15A",
+  "mssv": "19854261",
+  "ngaysinh": {
+    "$date": "2001-09-29T00:00:00Z"
+  },
+  "ten": "Phần"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83260e"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0375559636"
+  ],
+  "email": "phanthanhphong2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phan Thanh",
+  "malop": "DHKTPM15A",
+  "mssv": "19946511",
+  "ngaysinh": {
+    "$date": "2001-07-26T00:00:00Z"
+  },
+  "ten": "Phong"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83260f"
+  },
+  "diemTB": 5.5,
+  "dsDienthoai": [
+    "0379862200"
+  ],
+  "email": "trantanphuoc@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Tấn",
+  "malop": "DHKTPM15B",
+  "mssv": "19338181",
+  "ngaysinh": {
+    "$date": "2001-12-16T00:00:00Z"
+  },
+  "ten": "Phước"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832610"
+  },
+  "diemTB": 4.25,
+  "dsDienthoai": [
+    "0345634259"
+  ],
+  "email": "ntquy11092@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Trọng",
+  "malop": "DHKTPM15A",
+  "mssv": "19241471",
+  "ngaysinh": {
+    "$date": "2001-10-07T00:00:00Z"
+  },
+  "ten": "Quý"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832611"
+  },
+  "diemTB": 5.25,
+  "dsDienthoai": [
+    "0346204363"
+  ],
+  "email": "vansangdang@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Đặng Văn",
+  "malop": "DHKTPM15B",
+  "mssv": "19771511",
+  "ngaysinh": {
+    "$date": "2001-01-22T00:00:00Z"
+  },
+  "ten": "Sáng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832612"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0886680610"
+  ],
+  "email": "bsson2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Bùi Sỹ",
+  "malop": "DHKTPM14",
+  "mssv": "18960851",
+  "ngaysinh": {
+    "$date": "2000-07-10T00:00:00Z"
+  },
+  "ten": "Sơn"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832613"
+  },
+  "diemTB": 9.5,
+  "dsDienthoai": [
+    "0394566118"
+  ],
+  "email": "NguyenThanhson162@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Thanh",
+  "malop": "DHKTPM15B",
+  "mssv": "19847121",
+  "ngaysinh": {
+    "$date": "2001-04-19T00:00:00Z"
+  },
+  "ten": "Sơn"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832614"
+  },
+  "diemTB": 7,
+  "dsDienthoai": [
+    "0949218277"
+  ],
+  "email": "Letuantai@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Tuấn",
+  "malop": "DHKTPM15B",
+  "mssv": "19147291",
+  "ngaysinh": {
+    "$date": "2001-01-21T00:00:00Z"
+  },
+  "ten": "Tài"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832615"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0868321627"
+  ],
+  "email": "Speakers@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Văn",
+  "malop": "DHKTPM14",
+  "mssv": "18434661",
+  "ngaysinh": {
+    "$date": "1998-03-21T00:00:00Z"
+  },
+  "ten": "Tài"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832616"
+  },
+  "diemTB": 9,
+  "dsDienthoai": [
+    "0168455155"
+  ],
+  "email": "quitaitr@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Quí",
+  "malop": "DHKTPM14",
+  "mssv": "18776171",
+  "ngaysinh": {
+    "$date": "2000-05-18T00:00:00Z"
+  },
+  "ten": "Tài"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832617"
+  },
+  "diemTB": 8.25,
+  "dsDienthoai": [
+    "0388055838"
+  ],
+  "email": "votrungtino@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Võ Trung",
+  "malop": "DHKTPM15A",
+  "mssv": "19710531",
+  "ngaysinh": {
+    "$date": "2001-10-05T00:00:00Z"
+  },
+  "ten": "Tín"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832618"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0943084757"
+  ],
+  "email": "quantu211@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Quan",
+  "malop": "DHKTPM15A",
+  "mssv": "19126011",
+  "ngaysinh": {
+    "$date": "2001-09-28T00:00:00Z"
+  },
+  "ten": "Tú"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add832619"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0938145822"
+  ],
+  "email": "quangtuan@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Đinh Quang",
+  "malop": "DHKTPM15A",
+  "mssv": "19461271",
+  "ngaysinh": {
+    "$date": "2001-06-14T00:00:00Z"
+  },
+  "ten": "Tuấn"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83261a"
+  },
+  "diemTB": 6,
+  "dsDienthoai": [
+    "0166866726"
+  ],
+  "email": "tk1.tuanngu@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Quốc",
+  "malop": "DHKHMT14",
+  "mssv": "18864961",
+  "ngaysinh": {
+    "$date": "2000-11-09T00:00:00Z"
+  },
+  "ten": "Tuấn"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83261b"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0774943608"
+  ],
+  "email": "Tranvantuongtra@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Văn",
+  "malop": "DHKTPM15B",
+  "mssv": "19864241",
+  "ngaysinh": {
+    "$date": "2001-09-12T00:00:00Z"
+  },
+  "ten": "Tường"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83261c"
+  },
+  "diemTB": 9.75,
+  "dsDienthoai": [
+    "1653365224"
+  ],
+  "email": "levohuuth@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Võ Hửu",
+  "malop": "DHKTPM14",
+  "mssv": "18413691",
+  "ngaysinh": {
+    "$date": "2000-01-03T00:00:00Z"
+  },
+  "ten": "Thái"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83261d"
+  },
+  "diemTB": 4.75,
+  "dsDienthoai": [
+    "0374779177"
+  ],
+  "email": "thanhjmg1@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Tuấn",
+  "malop": "DHKTPM15A",
+  "mssv": "19480901",
+  "ngaysinh": {
+    "$date": "2001-04-27T00:00:00Z"
+  },
+  "ten": "Thanh"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83261e"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0385553915"
+  ],
+  "email": "tcao2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Đào Cao",
+  "malop": "DHKTPM15B",
+  "mssv": "19353821",
+  "ngaysinh": {
+    "$date": "2001-08-22T00:00:00Z"
+  },
+  "ten": "Thắng"
+},{
+  "_id": {
+    "$oid": "6131a2a278b3264add83261f"
+  },
+  "diemTB": 5,
+  "dsDienthoai": [
+    "0902643161"
+  ],
+  "email": "tranhuythang030@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Huy",
+  "malop": "DHKTPM14",
+  "mssv": "18126141",
+  "ngaysinh": {
+    "$date": "2000-05-06T00:00:00Z"
+  },
+  "ten": "Thắng"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832620"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0896639107"
+  ],
+  "email": "thinguyen280@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Đặng Hoàng",
+  "malop": "DHKHMT15A",
+  "mssv": "19985901",
+  "ngaysinh": {
+    "$date": "2001-06-28T00:00:00Z"
+  },
+  "ten": "Thi"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832621"
+  },
+  "diemTB": 5.75,
+  "dsDienthoai": [
+    "0347514117"
+  ],
+  "email": "phanthituthi1@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Phan Thị Tứ",
+  "malop": "DHKTPM14",
+  "mssv": "18826701",
+  "ngaysinh": {
+    "$date": "2000-12-04T00:00:00Z"
+  },
+  "ten": "Thi"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832622"
+  },
+  "diemTB": 7.25,
+  "dsDienthoai": [
+    "0164920241"
+  ],
+  "email": "Tvthtk@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Văn",
+  "malop": "DHKTPM13B",
+  "mssv": "17771701",
+  "ngaysinh": {
+    "$date": "1998-05-19T00:00:00Z"
+  },
+  "ten": "Thiện"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832623"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0568255445"
+  ],
+  "email": "thotran151@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Hữu",
+  "malop": "DHKTPM14",
+  "mssv": "18382441",
+  "ngaysinh": {
+    "$date": "2000-01-27T00:00:00Z"
+  },
+  "ten": "Thọ"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832624"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0704081440"
+  ],
+  "email": "httthuy@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Hoàng Thị Tố",
+  "malop": "DHKTPM15A",
+  "mssv": "19792991",
+  "ngaysinh": {
+    "$date": "2001-03-12T00:00:00Z"
+  },
+  "ten": "Thùy"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832625"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0377865527"
+  ],
+  "email": "hohongthuy1@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Hồ Thị Hồng",
+  "malop": "DHKTPM15B",
+  "mssv": "19120501",
+  "ngaysinh": {
+    "$date": "2001-05-14T00:00:00Z"
+  },
+  "ten": "Thủy"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832626"
+  },
+  "diemTB": 7.5,
+  "dsDienthoai": [
+    "0163483438"
+  ],
+  "email": "thuynguyen.050@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Thị Thanh",
+  "malop": "DHKTPM14",
+  "mssv": "18403161",
+  "ngaysinh": {
+    "$date": "2000-10-20T00:00:00Z"
+  },
+  "ten": "Thúy"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832627"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0363435239"
+  ],
+  "email": "huutrong@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phan Hữu",
+  "malop": "DHKTPM15A",
+  "mssv": "19282991",
+  "ngaysinh": {
+    "$date": "2001-10-19T00:00:00Z"
+  },
+  "ten": "Trọng"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832628"
+  },
+  "diemTB": 9,
+  "dsDienthoai": [
+    "0911765988"
+  ],
+  "email": "anhmaypro09@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phan Nguyễn Tấn",
+  "malop": "DHKTPM15A",
+  "mssv": "19924481",
+  "ngaysinh": {
+    "$date": "2001-11-17T00:00:00Z"
+  },
+  "ten": "Trọng"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832629"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0168329640"
+  ],
+  "email": "congtruyen06032@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Huỳnh Công",
+  "malop": "DHKHMT14",
+  "mssv": "18440521",
+  "ngaysinh": {
+    "$date": "2000-04-22T00:00:00Z"
+  },
+  "ten": "Truyền"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83262a"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0964226330"
+  ],
+  "email": "dothituongvivi2@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Đỗ Thị Tường",
+  "malop": "DHKTPM15B",
+  "mssv": "19832091",
+  "ngaysinh": {
+    "$date": "2000-06-26T00:00:00Z"
+  },
+  "ten": "Vi"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83262b"
+  },
+  "diemTB": 5,
+  "dsDienthoai": [
+    "0906411930"
+  ],
+  "email": "vinhmasxi@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Nguyễn Thành",
+  "malop": "DHKTPM14",
+  "mssv": "18979031",
+  "ngaysinh": {
+    "$date": "2000-06-08T00:00:00Z"
+  },
+  "ten": "Vinh"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83262c"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0364819104"
+  ],
+  "email": "minhvu9@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Minh",
+  "malop": "DHKHMT14",
+  "mssv": "18392151",
+  "ngaysinh": {
+    "$date": "2000-07-22T00:00:00Z"
+  },
+  "ten": "Vũ"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83262d"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0979159170"
+  ],
+  "email": "hoangvuong12@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lưu Hoàng",
+  "malop": "DHKHMT14",
+  "mssv": "18449611",
+  "ngaysinh": {
+    "$date": "2000-05-11T00:00:00Z"
+  },
+  "ten": "Vương"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83262e"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0167613524"
+  ],
+  "email": "vngv@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Võ Minh",
+  "malop": "DHKTPM13A",
+  "mssv": "17337331",
+  "ngaysinh": {
+    "$date": "1999-03-28T00:00:00Z"
+  },
+  "ten": "Vương"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83262f"
+  },
+  "diemTB": 9.75,
+  "dsDienthoai": [
+    "0332127202"
+  ],
+  "email": "tuananh.forw@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Tuấn",
+  "malop": "DHKTPM14CTT",
+  "mssv": "18396621",
+  "ngaysinh": {
+    "$date": "2000-04-27T00:00:00Z"
+  },
+  "ten": "Anh"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832630"
+  },
+  "diemTB": 6,
+  "dsDienthoai": [
+    "0913973331"
+  ],
+  "email": "lamduccuong@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lâm Đức",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19871361",
+  "ngaysinh": {
+    "$date": "2001-12-05T00:00:00Z"
+  },
+  "ten": "Cường"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832631"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0982290550"
+  ],
+  "email": "kendauban1@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hoàng Tiến",
+  "malop": "DHKTPM13ATT",
+  "mssv": "17661021",
+  "ngaysinh": {
+    "$date": "1999-04-29T00:00:00Z"
+  },
+  "ten": "Dũng"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832632"
+  },
+  "diemTB": 7.75,
+  "dsDienthoai": [
+    "0839002929"
+  ],
+  "email": "goldia2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Võ Phạm Tường",
+  "malop": "DHKTPM15BTT",
+  "mssv": "19341551",
+  "ngaysinh": {
+    "$date": "2001-12-10T00:00:00Z"
+  },
+  "ten": "Duy"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832633"
+  },
+  "diemTB": 4.5,
+  "dsDienthoai": [
+    "0765804569"
+  ],
+  "email": "ndang1@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Chi Quốc",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19256651",
+  "ngaysinh": {
+    "$date": "2001-04-04T00:00:00Z"
+  },
+  "ten": "Đang"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832634"
+  },
+  "diemTB": 8.25,
+  "dsDienthoai": [
+    "0166311584"
+  ],
+  "email": "datvo14@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Võ Thành",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18451471",
+  "ngaysinh": {
+    "$date": "2000-11-07T00:00:00Z"
+  },
+  "ten": "Đạt"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832635"
+  },
+  "diemTB": 9.75,
+  "dsDienthoai": [
+    "0162988398"
+  ],
+  "email": "vuhongduc1@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Vũ Hồng",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18622071",
+  "ngaysinh": {
+    "$date": "2000-04-08T00:00:00Z"
+  },
+  "ten": "Đức"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832637"
+  },
+  "diemTB": 5,
+  "dsDienthoai": [
+    "0829492342"
+  ],
+  "email": "hieu2233@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Minh",
+  "malop": "DHKTPM15BTT",
+  "mssv": "19967411",
+  "ngaysinh": {
+    "$date": "2001-07-14T00:00:00Z"
+  },
+  "ten": "Hiếu"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832638"
+  },
+  "diemTB": 7,
+  "dsDienthoai": [
+    "0967481461"
+  ],
+  "email": "Thieugia7@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Văn",
+  "malop": "DHKTPM14BTT",
+  "mssv": "18726391",
+  "ngaysinh": {
+    "$date": "2000-12-15T00:00:00Z"
+  },
+  "ten": "Hiệu"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832639"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0186409292"
+  ],
+  "email": "huych@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Anh",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18182081",
+  "ngaysinh": {
+    "$date": "2000-12-15T00:00:00Z"
+  },
+  "ten": "Huy"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83263a"
+  },
+  "diemTB": 8.25,
+  "dsDienthoai": [
+    "0169915848"
+  ],
+  "email": "2h280@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Đức",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18749961",
+  "ngaysinh": {
+    "$date": "2000-01-28T00:00:00Z"
+  },
+  "ten": "Huy"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83263b"
+  },
+  "diemTB": 9.75,
+  "dsDienthoai": [
+    "0354634257"
+  ],
+  "email": "huynguyengia.@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Gia",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18914901",
+  "ngaysinh": {
+    "$date": "2000-07-11T00:00:00Z"
+  },
+  "ten": "Huy"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83263c"
+  },
+  "diemTB": 8,
+  "dsDienthoai": [
+    "0916036447"
+  ],
+  "email": "hunghuyn@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Huỳnh Nguyễn Đức",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18228021",
+  "ngaysinh": {
+    "$date": "2000-04-22T00:00:00Z"
+  },
+  "ten": "Hưng"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83263d"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0965345197"
+  ],
+  "email": "tranhiephung@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Hiệp",
+  "malop": "DHKTPM14CTT",
+  "mssv": "18910601",
+  "ngaysinh": {
+    "$date": "1999-07-08T00:00:00Z"
+  },
+  "ten": "Hưng"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83263e"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0968172625"
+  ],
+  "email": "nguyenhoanhuu8@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Hoàn",
+  "malop": "DHKTPM15BTT",
+  "mssv": "19728151",
+  "ngaysinh": {
+    "$date": "2001-12-24T00:00:00Z"
+  },
+  "ten": "Hữu"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83263f"
+  },
+  "diemTB": 6.25,
+  "dsDienthoai": [
+    "0905515644"
+  ],
+  "email": "kiendoba1@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Đỗ Bá",
+  "malop": "DHKTPM15BTT",
+  "mssv": "19295191",
+  "ngaysinh": {
+    "$date": "2001-02-23T00:00:00Z"
+  },
+  "ten": "Kiên"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832640"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0522561242"
+  ],
+  "email": "nguyenquykha@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Quý",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19651611",
+  "ngaysinh": {
+    "$date": "2001-02-06T00:00:00Z"
+  },
+  "ten": "Khả"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832641"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0168867956"
+  ],
+  "email": "doledangkh@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Đỗ Lê Đăng",
+  "malop": "DHKTPM14BTT",
+  "mssv": "18883951",
+  "ngaysinh": {
+    "$date": "2000-02-16T00:00:00Z"
+  },
+  "ten": "Khoa"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832642"
+  },
+  "diemTB": 7.75,
+  "dsDienthoai": [
+    "0946199257"
+  ],
+  "email": "anhkhoavan@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Văn Anh",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19637861",
+  "ngaysinh": {
+    "$date": "2001-01-13T00:00:00Z"
+  },
+  "ten": "Khoa"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832643"
+  },
+  "diemTB": 9.5,
+  "dsDienthoai": [
+    "0938255782"
+  ],
+  "email": "nlam39@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Võ Phú",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19995301",
+  "ngaysinh": {
+    "$date": "2001-05-19T00:00:00Z"
+  },
+  "ten": "Lam"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832644"
+  },
+  "diemTB": 8,
+  "dsDienthoai": [
+    "0907059399"
+  ],
+  "email": "linhrambo@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Nhật",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19847081",
+  "ngaysinh": {
+    "$date": "2001-10-08T00:00:00Z"
+  },
+  "ten": "Linh"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832645"
+  },
+  "diemTB": 6.5,
+  "dsDienthoai": [
+    "0902516352"
+  ],
+  "email": "nhozway@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lưu Hoàng",
+  "malop": "DHKTPM14BTT",
+  "mssv": "18292591",
+  "ngaysinh": {
+    "$date": "2000-06-30T00:00:00Z"
+  },
+  "ten": "Long"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832646"
+  },
+  "diemTB": 5,
+  "dsDienthoai": [
+    "0931559857"
+  ],
+  "email": "meobinh2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Bùi Quang",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18567711",
+  "ngaysinh": {
+    "$date": "2000-04-06T00:00:00Z"
+  },
+  "ten": "Minh"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832647"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0168595514"
+  ],
+  "email": "thanhngan1262@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Phạm Thị Thanh",
+  "malop": "DHKTPM14BTT",
+  "mssv": "18555971",
+  "ngaysinh": {
+    "$date": "2000-04-02T00:00:00Z"
+  },
+  "ten": "Ngân"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832648"
+  },
+  "diemTB": 9,
+  "dsDienthoai": [
+    "0345826358"
+  ],
+  "email": "rupinphan12@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phan Đình",
+  "malop": "DHKTPM15BTT",
+  "mssv": "19658141",
+  "ngaysinh": {
+    "$date": "2001-12-12T00:00:00Z"
+  },
+  "ten": "Nhật"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832649"
+  },
+  "diemTB": 5.5,
+  "dsDienthoai": [
+    "0358995517"
+  ],
+  "email": "phongaq17122@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Thanh",
+  "malop": "DHKTPM15BTT",
+  "mssv": "19377571",
+  "ngaysinh": {
+    "$date": "2001-08-06T00:00:00Z"
+  },
+  "ten": "Phong"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83264a"
+  },
+  "diemTB": 7,
+  "dsDienthoai": [
+    "0972444600"
+  ],
+  "email": "roynguyen@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Văn",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18901791",
+  "ngaysinh": {
+    "$date": "2000-06-13T00:00:00Z"
+  },
+  "ten": "Phúc"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83264b"
+  },
+  "diemTB": 7,
+  "dsDienthoai": [
+    "0164326974"
+  ],
+  "email": "haphuongminyoo@email.com",
+  "gioitinh": "Nữ",
+  "ho": "Đinh Thị Hà",
+  "malop": "DHKTPM14BTT",
+  "mssv": "18161381",
+  "ngaysinh": {
+    "$date": "2000-10-23T00:00:00Z"
+  },
+  "ten": "Phương"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83264c"
+  },
+  "diemTB": 4.25,
+  "dsDienthoai": [
+    "0853300690"
+  ],
+  "email": "qswaqu@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Nhật",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19796091",
+  "ngaysinh": {
+    "$date": "2001-05-12T00:00:00Z"
+  },
+  "ten": "Quang"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83264d"
+  },
+  "diemTB": 9,
+  "dsDienthoai": [
+    "0988856173"
+  ],
+  "email": "nguyensang2152@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Hoàng",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19572231",
+  "ngaysinh": {
+    "$date": "2001-12-25T00:00:00Z"
+  },
+  "ten": "Sang"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83264e"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0392263111"
+  ],
+  "email": "19491411.t@student.iuh.edu.vn",
+  "gioitinh": "Nam",
+  "ho": "Võ Đức",
+  "malop": "DHKTPM15BTT",
+  "mssv": "19744421",
+  "ngaysinh": {
+    "$date": "2001-12-08T00:00:00Z"
+  },
+  "ten": "Toàn"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83264f"
+  },
+  "diemTB": 5.5,
+  "dsDienthoai": [
+    "0163279301"
+  ],
+  "email": "nhoxvipt@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Hữu",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18131861",
+  "ngaysinh": {
+    "$date": "2000-07-28T00:00:00Z"
+  },
+  "ten": "Tú"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832650"
+  },
+  "diemTB": 4.75,
+  "dsDienthoai": [
+    "0937155675"
+  ],
+  "email": "cattuong@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Thiên Cát",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18694951",
+  "ngaysinh": {
+    "$date": "2000-07-31T00:00:00Z"
+  },
+  "ten": "Tường"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832651"
+  },
+  "diemTB": 6.25,
+  "dsDienthoai": [
+    "0929004709"
+  ],
+  "email": "xuanthanh120@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Xuân",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18663251",
+  "ngaysinh": {
+    "$date": "2000-02-06T00:00:00Z"
+  },
+  "ten": "Thành"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832652"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0933236283"
+  ],
+  "email": "hoangthao.16112@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Hoàng Thiên",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18218821",
+  "ngaysinh": {
+    "$date": "2000-02-25T00:00:00Z"
+  },
+  "ten": "Thảo"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832653"
+  },
+  "diemTB": 5,
+  "dsDienthoai": [
+    "0165333964"
+  ],
+  "email": "totham@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Tô Thị Hồng",
+  "malop": "DHKTPM14BTT",
+  "mssv": "18304881",
+  "ngaysinh": {
+    "$date": "2000-04-25T00:00:00Z"
+  },
+  "ten": "Thắm"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832654"
+  },
+  "diemTB": 9.5,
+  "dsDienthoai": [
+    "0703942398"
+  ],
+  "email": "thamthuy100@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hoàng Hoa",
+  "malop": "DHKTPM15BTT",
+  "mssv": "19495831",
+  "ngaysinh": {
+    "$date": "2001-09-27T00:00:00Z"
+  },
+  "ten": "Thuấn"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832655"
+  },
+  "diemTB": 6.5,
+  "dsDienthoai": [
+    "0169520930"
+  ],
+  "email": "maikimyen140@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Mai Minh",
+  "malop": "DHKTPM14BTT",
+  "mssv": "18947571",
+  "ngaysinh": {
+    "$date": "2000-03-24T00:00:00Z"
+  },
+  "ten": "Thư"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832656"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0937336871"
+  ],
+  "email": "2964139hoang@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Hoàng Minh",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19190451",
+  "ngaysinh": {
+    "$date": "1994-02-12T00:00:00Z"
+  },
+  "ten": "Trí"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832657"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0906303713"
+  ],
+  "email": "hoangviet13052@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Hoàng",
+  "malop": "DHKTPM14BTT",
+  "mssv": "18437151",
+  "ngaysinh": {
+    "$date": "2000-10-20T00:00:00Z"
+  },
+  "ten": "Việt"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832658"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0972011457"
+  ],
+  "email": "nguyenthaian31102@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Thái",
+  "malop": "DHKTPM15BTT",
+  "mssv": "19765971",
+  "ngaysinh": {
+    "$date": "2001-10-31T00:00:00Z"
+  },
+  "ten": "An"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832659"
+  },
+  "diemTB": 4.25,
+  "dsDienthoai": [],
+  "email": "nguyenthaian31102@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Võ Giang",
+  "malop": "DHKTPM12BTT",
+  "mssv": "16175671",
+  "ngaysinh": {
+    "$date": "1998-10-21T00:00:00Z"
+  },
+  "ten": "Anh"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83265a"
+  },
+  "diemTB": 8.5,
+  "dsDienthoai": [
+    "0948018104"
+  ],
+  "email": "hoanganh119@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Hoàng Thị Ngọc",
+  "malop": "DHKTPM15BTT",
+  "mssv": "19201941",
+  "ngaysinh": {
+    "$date": "2001-12-03T00:00:00Z"
+  },
+  "ten": "Ánh"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83265b"
+  },
+  "diemTB": 6,
+  "dsDienthoai": [
+    "0347529162"
+  ],
+  "email": "tanggiabao.@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Tăng Gia",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19148711",
+  "ngaysinh": {
+    "$date": "2001-04-19T00:00:00Z"
+  },
+  "ten": "Bảo"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83265c"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0986022803"
+  ],
+  "email": "bang0@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Văn",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19810611",
+  "ngaysinh": {
+    "$date": "2001-08-19T00:00:00Z"
+  },
+  "ten": "Bằng"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83265d"
+  },
+  "diemTB": 8.25,
+  "dsDienthoai": [
+    "0121594804"
+  ],
+  "email": "thaiduongk@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Thái",
+  "malop": "DHKTPM14BTT",
+  "mssv": "18535051",
+  "ngaysinh": {
+    "$date": "2000-08-31T00:00:00Z"
+  },
+  "ten": "Dương"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83265e"
+  },
+  "diemTB": 5.25,
+  "dsDienthoai": [
+    "0338629729"
+  ],
+  "email": "033862957@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Văn",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19412951",
+  "ngaysinh": {
+    "$date": "2001-03-24T00:00:00Z"
+  },
+  "ten": "Dương"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83265f"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0907174881"
+  ],
+  "email": "darkstarsilen@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Văn",
+  "malop": "DHKTPM14BTT",
+  "mssv": "18627431",
+  "ngaysinh": {
+    "$date": "2000-04-08T00:00:00Z"
+  },
+  "ten": "Đạt"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832660"
+  },
+  "diemTB": 6.5,
+  "dsDienthoai": [
+    "0373995138"
+  ],
+  "email": "datmt9a@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phùng Phú",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19915171",
+  "ngaysinh": {
+    "$date": "2001-12-28T00:00:00Z"
+  },
+  "ten": "Đạt"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832661"
+  },
+  "diemTB": 7.75,
+  "dsDienthoai": [
+    "0705789927"
+  ],
+  "email": "nguyenvuongngoc@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Vương Ngọc",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19273761",
+  "ngaysinh": {
+    "$date": "2001-05-06T00:00:00Z"
+  },
+  "ten": "Hải"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832662"
+  },
+  "diemTB": 6.5,
+  "dsDienthoai": [
+    "0127315595"
+  ],
+  "email": "ptaka@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Nhật",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18674221",
+  "ngaysinh": {
+    "$date": "2000-05-06T00:00:00Z"
+  },
+  "ten": "Hào"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832663"
+  },
+  "diemTB": 9.5,
+  "dsDienthoai": [
+    "0839090395"
+  ],
+  "email": "kuhoan@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Phi",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19164771",
+  "ngaysinh": {
+    "$date": "2001-10-06T00:00:00Z"
+  },
+  "ten": "Hoàng"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832664"
+  },
+  "diemTB": 6.25,
+  "dsDienthoai": [
+    "0334773765"
+  ],
+  "email": "hoang21062@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Viết",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19536331",
+  "ngaysinh": {
+    "$date": "2001-01-18T00:00:00Z"
+  },
+  "ten": "Hoàng"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832665"
+  },
+  "diemTB": 5.75,
+  "dsDienthoai": [
+    "0392721814"
+  ],
+  "email": "hoc.nguyenviet@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Viết",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19471701",
+  "ngaysinh": {
+    "$date": "2001-06-04T00:00:00Z"
+  },
+  "ten": "Học"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832666"
+  },
+  "diemTB": 6.25,
+  "dsDienthoai": [
+    "0169795152"
+  ],
+  "email": "lenhatuyenhu@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Lê Nhật Uyên",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18858191",
+  "ngaysinh": {
+    "$date": "2000-07-26T00:00:00Z"
+  },
+  "ten": "Hương"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832667"
+  },
+  "diemTB": 8,
+  "dsDienthoai": [
+    "0961866692"
+  ],
+  "email": "kietkiet2332@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Châu Nguyễn Tuấn",
+  "malop": "DHKTPM14BTT",
+  "mssv": "18838981",
+  "ngaysinh": {
+    "$date": "2000-09-18T00:00:00Z"
+  },
+  "ten": "Kiệt"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832668"
+  },
+  "diemTB": 6.75,
+  "dsDienthoai": [
+    "0797189755"
+  ],
+  "email": "khanh372@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Kim Bảo",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19777251",
+  "ngaysinh": {
+    "$date": "2001-03-22T00:00:00Z"
+  },
+  "ten": "Khánh"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832669"
+  },
+  "diemTB": 6.25,
+  "dsDienthoai": [
+    "0392589849"
+  ],
+  "email": "nlap@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Võ Vươn",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19715851",
+  "ngaysinh": {
+    "$date": "2001-07-31T00:00:00Z"
+  },
+  "ten": "Lập"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83266a"
+  },
+  "diemTB": 6.5,
+  "dsDienthoai": [
+    "0329852715"
+  ],
+  "email": "linhdoan1122@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Đoàn Thị Mỹ",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19603771",
+  "ngaysinh": {
+    "$date": "2001-07-13T00:00:00Z"
+  },
+  "ten": "Linh"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83266b"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0938992850"
+  ],
+  "email": "longle2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Hoàng",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19423721",
+  "ngaysinh": {
+    "$date": "2000-05-05T00:00:00Z"
+  },
+  "ten": "Long"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83266c"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0919671474"
+  ],
+  "email": "longsupper1@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Phạm Hoàng",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19380411",
+  "ngaysinh": {
+    "$date": "2001-09-27T00:00:00Z"
+  },
+  "ten": "Long"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83266d"
+  },
+  "diemTB": 7.25,
+  "dsDienthoai": [
+    "0945849299"
+  ],
+  "email": "mailxa@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Cao Thị Hồng",
+  "malop": "DHKTPM14BTT",
+  "mssv": "18217621",
+  "ngaysinh": {
+    "$date": "2000-03-17T00:00:00Z"
+  },
+  "ten": "Mai"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83266e"
+  },
+  "diemTB": 8.5,
+  "dsDienthoai": [
+    "0975574710"
+  ],
+  "email": "nhatminhmin@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Lâm Nhật",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19518081",
+  "ngaysinh": {
+    "$date": "2001-04-30T00:00:00Z"
+  },
+  "ten": "Minh"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83266f"
+  },
+  "diemTB": 8,
+  "dsDienthoai": [
+    "0333007665"
+  ],
+  "email": "namn81@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Hải",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19740721",
+  "ngaysinh": {
+    "$date": "2001-09-28T00:00:00Z"
+  },
+  "ten": "Nam"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832670"
+  },
+  "diemTB": 8.25,
+  "dsDienthoai": [
+    "0355034752"
+  ],
+  "email": "nam01697826435@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Thành",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19370281",
+  "ngaysinh": {
+    "$date": "2001-10-02T00:00:00Z"
+  },
+  "ten": "Nam"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832671"
+  },
+  "diemTB": 8.5,
+  "dsDienthoai": [
+    "0964661599"
+  ],
+  "email": "myngo@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Đoàn Kiều Mỹ",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19181261",
+  "ngaysinh": {
+    "$date": "2001-12-27T00:00:00Z"
+  },
+  "ten": "Ngọc"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832672"
+  },
+  "diemTB": 9.25,
+  "dsDienthoai": [
+    "0164850830"
+  ],
+  "email": "tanphong@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Tần Văn",
+  "malop": "DHKTPM12BTT",
+  "mssv": "16803731",
+  "ngaysinh": {
+    "$date": "1998-02-28T00:00:00Z"
+  },
+  "ten": "Phong"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832673"
+  },
+  "diemTB": 7,
+  "dsDienthoai": [
+    "0934154428"
+  ],
+  "email": "phuclx182@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hồ Minh",
+  "malop": "DHKTPM14CTT",
+  "mssv": "18235421",
+  "ngaysinh": {
+    "$date": "2000-04-16T00:00:00Z"
+  },
+  "ten": "Phúc"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832674"
+  },
+  "diemTB": 7,
+  "dsDienthoai": [
+    "0366079818"
+  ],
+  "email": "quangnguyenminh2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Minh",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19280691",
+  "ngaysinh": {
+    "$date": "2001-11-11T00:00:00Z"
+  },
+  "ten": "Quang"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832675"
+  },
+  "diemTB": 7.75,
+  "dsDienthoai": [
+    "0788778763"
+  ],
+  "email": "minhquan.l@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "La Võ Minh",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19723991",
+  "ngaysinh": {
+    "$date": "2001-07-30T00:00:00Z"
+  },
+  "ten": "Quân"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832676"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0965826210"
+  ],
+  "email": "quan14@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Hồng",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19277111",
+  "ngaysinh": {
+    "$date": "2001-12-14T00:00:00Z"
+  },
+  "ten": "Quân"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832677"
+  },
+  "diemTB": 5.75,
+  "dsDienthoai": [
+    "0384195154"
+  ],
+  "email": "taito1dorae@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phan Tấn",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19116251",
+  "ngaysinh": {
+    "$date": "2001-10-19T00:00:00Z"
+  },
+  "ten": "Tài"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832678"
+  },
+  "diemTB": 6.5,
+  "dsDienthoai": [
+    "0372061845"
+  ],
+  "email": "truongtien2@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trương Khắc Anh",
+  "malop": "DHKTPM15ATT",
+  "mssv": "19588741",
+  "ngaysinh": {
+    "$date": "2001-01-04T00:00:00Z"
+  },
+  "ten": "Tiến"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832679"
+  },
+  "diemTB": 5.75,
+  "dsDienthoai": [
+    "0965894168"
+  ],
+  "email": "daotinh0@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Đào Hữu Minh",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18448781",
+  "ngaysinh": {
+    "$date": "2000-04-16T00:00:00Z"
+  },
+  "ten": "Tĩnh"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83267a"
+  },
+  "diemTB": 4.5,
+  "dsDienthoai": [
+    "0348355940"
+  ],
+  "email": "tuny113tun@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Văn",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19917321",
+  "ngaysinh": {
+    "$date": "2001-02-17T00:00:00Z"
+  },
+  "ten": "Tùng"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83267b"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0120323496"
+  ],
+  "email": "phamletha@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Lê",
+  "malop": "DHKTPM14CTT",
+  "mssv": "18240531",
+  "ngaysinh": {
+    "$date": "2000-10-15T00:00:00Z"
+  },
+  "ten": "Thành"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83267c"
+  },
+  "diemTB": 4.75,
+  "dsDienthoai": [
+    "0974790263"
+  ],
+  "email": "tieuhivong7@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Đinh Thị Phương",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19951871",
+  "ngaysinh": {
+    "$date": "2001-06-01T00:00:00Z"
+  },
+  "ten": "Thảo"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83267d"
+  },
+  "diemTB": 7.25,
+  "dsDienthoai": [
+    "0932904122"
+  ],
+  "email": "porkoe3443@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Trần Thị Anh",
+  "malop": "DHKTPM15BTT",
+  "mssv": "19988051",
+  "ngaysinh": {
+    "$date": "2001-01-17T00:00:00Z"
+  },
+  "ten": "Thư"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83267e"
+  },
+  "diemTB": 7.5,
+  "dsDienthoai": [
+    "0908324303"
+  ],
+  "email": "pkt02052@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Kiên",
+  "malop": "DHKTPM14ATT",
+  "mssv": "18844411",
+  "ngaysinh": {
+    "$date": "2000-04-13T00:00:00Z"
+  },
+  "ten": "Trung"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add83267f"
+  },
+  "diemTB": 8,
+  "dsDienthoai": [
+    "0166484840"
+  ],
+  "email": "truongh@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hồ Nguyễn Nhật",
+  "malop": "DHKTPM14BTT",
+  "mssv": "18768411",
+  "ngaysinh": {
+    "$date": "2000-09-27T00:00:00Z"
+  },
+  "ten": "Trường"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832680"
+  },
+  "diemTB": 6,
+  "dsDienthoai": [
+    "0979318535"
+  ],
+  "email": "vithevinh@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Vi Thế",
+  "malop": "DHKTPM15BTT",
+  "mssv": "19277681",
+  "ngaysinh": {
+    "$date": "2001-11-24T00:00:00Z"
+  },
+  "ten": "Vinh"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832681"
+  },
+  "diemTB": 8.75,
+  "dsDienthoai": [
+    "0901356966"
+  ],
+  "email": "hahuyvu@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hà Huy",
+  "malop": "DHKTPM14CTT",
+  "mssv": "18231221",
+  "ngaysinh": {
+    "$date": "2000-06-19T00:00:00Z"
+  },
+  "ten": "Vũ"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832682"
+  },
+  "diemTB": 6.75,
+  "dsDienthoai": [
+    "0793899506"
+  ],
+  "email": "vhong10092@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hoàng Huy",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19124711",
+  "ngaysinh": {
+    "$date": "2001-07-21T00:00:00Z"
+  },
+  "ten": "Vũ"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832683"
+  },
+  "diemTB": 8.5,
+  "dsDienthoai": [
+    "0363681933"
+  ],
+  "email": "minhvuong@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Minh Minh",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19823631",
+  "ngaysinh": {
+    "$date": "2001-01-17T00:00:00Z"
+  },
+  "ten": "Vương"
+},{
+  "_id": {
+    "$oid": "6131a2a378b3264add832684"
+  },
+  "diemTB": 10,
+  "dsDienthoai": [
+    "0938306223"
+  ],
+  "email": "timoo@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Ngô Thái Thiên",
+  "malop": "DHKTPM15CTT",
+  "mssv": "19169541",
+  "ngaysinh": {
+    "$date": "2001-09-21T00:00:00Z"
+  },
+  "ten": "Vy"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499f0"
+  },
+  "diemTB": 4.25,
+  "dsDienthoai": [
+    "0325726741"
+  ],
+  "email": "ry412001@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Đức",
+  "malop": "DHKTPM14B",
+  "mssv": "18108551",
+  "ngaysinh": {
+    "$date": "2000-09-06T00:00:00Z"
+  },
+  "ten": "Hữu"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499f1"
+  },
+  "diemTB": 1.5,
+  "dsDienthoai": [
+    "0357220368"
+  ],
+  "email": "inhnguyenhung@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Thị Minh",
+  "malop": "DHKTPM13B",
+  "mssv": "17695231",
+  "ngaysinh": {
+    "$date": "1999-11-01T00:00:00Z"
+  },
+  "ten": "Vi"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499f2"
+  },
+  "diemTB": 2.25,
+  "dsDienthoai": [
+    "0324470053"
+  ],
+  "email": "hchaunguyenmtp@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Trọng",
+  "malop": "DHKTPM15BCLC",
+  "mssv": "19443461",
+  "ngaysinh": {
+    "$date": "2001-08-05T00:00:00Z"
+  },
+  "ten": "Lâm"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499f3"
+  },
+  "diemTB": 4.75,
+  "dsDienthoai": [
+    "0379729169"
+  ],
+  "email": "hoang14901@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Võ Trung",
+  "malop": "DHKHMT14B",
+  "mssv": "18568971",
+  "ngaysinh": {
+    "$date": "2000-05-26T00:00:00Z"
+  },
+  "ten": "Trần"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499f4"
+  },
+  "diemTB": 2.75,
+  "dsDienthoai": [
+    "0846616535"
+  ],
+  "email": "nlap2606@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Tiến",
+  "malop": "DHKTPM13B",
+  "mssv": "17214881",
+  "ngaysinh": {
+    "$date": "1999-06-15T00:00:00Z"
+  },
+  "ten": "Châu"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499f5"
+  },
+  "diemTB": 4.25,
+  "dsDienthoai": [
+    "0916225942"
+  ],
+  "email": "oved@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Thanh",
+  "malop": "DHKTPM15C",
+  "mssv": "19949661",
+  "ngaysinh": {
+    "$date": "2001-12-11T00:00:00Z"
+  },
+  "ten": "Uyên"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499f6"
+  },
+  "diemTB": 1.25,
+  "dsDienthoai": [
+    "0977031122"
+  ],
+  "email": "nvannhan1911@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phạm Văn",
+  "malop": "DHKHMT13C",
+  "mssv": "17708321",
+  "ngaysinh": {
+    "$date": "1999-02-26T00:00:00Z"
+  },
+  "ten": "Thanh"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499f7"
+  },
+  "diemTB": 0,
+  "dsDienthoai": [
+    "0392363472"
+  ],
+  "email": "uan552000@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Thân Trọng",
+  "malop": "DHKTPM15A",
+  "mssv": "19335191",
+  "ngaysinh": {
+    "$date": "2001-08-27T00:00:00Z"
+  },
+  "ten": "Hiệp"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499f8"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0915470514"
+  ],
+  "email": "yentrgphu112@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Anh",
+  "malop": "DHKHMT13B",
+  "mssv": "17330651",
+  "ngaysinh": {
+    "$date": "1999-10-19T00:00:00Z"
+  },
+  "ten": "Thái"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499f9"
+  },
+  "diemTB": 1.25,
+  "dsDienthoai": [
+    "0365467104"
+  ],
+  "email": "badao@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Trần Đông",
+  "malop": "DHKHMT14B",
+  "mssv": "18399861",
+  "ngaysinh": {
+    "$date": "2000-12-04T00:00:00Z"
+  },
+  "ten": "Lê"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499fa"
+  },
+  "diemTB": 0.25,
+  "dsDienthoai": [
+    "0381122812"
+  ],
+  "email": "yentrgphu112@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Tiến",
+  "malop": "DHKTPM14CCLC",
+  "mssv": "18616021",
+  "ngaysinh": {
+    "$date": "2000-10-12T00:00:00Z"
+  },
+  "ten": "Nguyễn"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499fb"
+  },
+  "diemTB": 2.75,
+  "dsDienthoai": [
+    "0122169406"
+  ],
+  "email": "ry412001@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Dương Minh",
+  "malop": "DHKTPM14B",
+  "mssv": "18952411",
+  "ngaysinh": {
+    "$date": "2000-04-16T00:00:00Z"
+  },
+  "ten": "Mạnh"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499fc"
+  },
+  "diemTB": 3.75,
+  "dsDienthoai": [
+    "0164894273"
+  ],
+  "email": "harem1.0@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Văn",
+  "malop": "DHKTPM15C",
+  "mssv": "19907791",
+  "ngaysinh": {
+    "$date": "2001-03-12T00:00:00Z"
+  },
+  "ten": "Đức"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499fd"
+  },
+  "diemTB": 0,
+  "dsDienthoai": [
+    "0124061964"
+  ],
+  "email": "inhhieu7801@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Võ Trung",
+  "malop": "DHKTPM13A",
+  "mssv": "17361731",
+  "ngaysinh": {
+    "$date": "1999-08-14T00:00:00Z"
+  },
+  "ten": "Đoàn"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499fe"
+  },
+  "diemTB": 4.25,
+  "dsDienthoai": [
+    "0351790646"
+  ],
+  "email": "badao@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Ngô Quốc",
+  "malop": "DHKHMT13C",
+  "mssv": "17564051",
+  "ngaysinh": {
+    "$date": "1999-08-03T00:00:00Z"
+  },
+  "ten": "Mỹ"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb1805988499ff"
+  },
+  "diemTB": 2.25,
+  "dsDienthoai": [
+    "0381113382"
+  ],
+  "email": "tluong219@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Phan Nhật",
+  "malop": "DHKTPM15A",
+  "mssv": "19518641",
+  "ngaysinh": {
+    "$date": "2001-11-12T00:00:00Z"
+  },
+  "ten": "Phùng"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a00"
+  },
+  "diemTB": 1.5,
+  "dsDienthoai": [
+    "0964682799"
+  ],
+  "email": "yen.vo.6112018@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn",
+  "malop": "DHKTPM13C",
+  "mssv": "17211791",
+  "ngaysinh": {
+    "$date": "1999-03-10T00:00:00Z"
+  },
+  "ten": "Duy"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a01"
+  },
+  "diemTB": 1.75,
+  "dsDienthoai": [
+    "0127303853"
+  ],
+  "email": "hle20051999@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Lê Quang",
+  "malop": "DHKHMT13A",
+  "mssv": "17801611",
+  "ngaysinh": {
+    "$date": "1999-05-01T00:00:00Z"
+  },
+  "ten": "Trần"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a02"
+  },
+  "diemTB": 0.25,
+  "dsDienthoai": [
+    "0977524204"
+  ],
+  "email": "aminh12an1nh2019@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Lê Quang",
+  "malop": "DHKTPM13B",
+  "mssv": "17720541",
+  "ngaysinh": {
+    "$date": "1999-07-24T00:00:00Z"
+  },
+  "ten": "Võ"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a03"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0368401819"
+  ],
+  "email": "hokute99@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Hoàng Văn",
+  "malop": "DHKTPM14A",
+  "mssv": "18263951",
+  "ngaysinh": {
+    "$date": "2000-02-21T00:00:00Z"
+  },
+  "ten": "Ngô"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a04"
+  },
+  "diemTB": 2.25,
+  "dsDienthoai": [
+    "0383408869"
+  ],
+  "email": "tluong219@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hoàng Văn",
+  "malop": "DHKHMT15C",
+  "mssv": "19512771",
+  "ngaysinh": {
+    "$date": "2001-11-19T00:00:00Z"
+  },
+  "ten": "Quý"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a05"
+  },
+  "diemTB": 4.25,
+  "dsDienthoai": [
+    "0842236767"
+  ],
+  "email": "ry412001@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Tiến",
+  "malop": "DHKTPM14CCLC",
+  "mssv": "18838181",
+  "ngaysinh": {
+    "$date": "2000-03-24T00:00:00Z"
+  },
+  "ten": "Văn"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a06"
+  },
+  "diemTB": 1,
+  "dsDienthoai": [
+    "0845155008"
+  ],
+  "email": "haulol@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Đức",
+  "malop": "DHKTPM13B",
+  "mssv": "17859381",
+  "ngaysinh": {
+    "$date": "1999-09-01T00:00:00Z"
+  },
+  "ten": "Kim"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a07"
+  },
+  "diemTB": 0.75,
+  "dsDienthoai": [
+    "0353144755"
+  ],
+  "email": "inhnguyenhung@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Văn",
+  "malop": "DHKTPM14B",
+  "mssv": "18717121",
+  "ngaysinh": {
+    "$date": "2000-07-12T00:00:00Z"
+  },
+  "ten": "Duy"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a08"
+  },
+  "diemTB": 3.25,
+  "dsDienthoai": [
+    "0367244009"
+  ],
+  "email": "dung46vn@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Văn",
+  "malop": "DHKTPM15A",
+  "mssv": "19434111",
+  "ngaysinh": {
+    "$date": "2001-10-16T00:00:00Z"
+  },
+  "ten": "Bá"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a09"
+  },
+  "diemTB": 0.5,
+  "dsDienthoai": [
+    "0392329950"
+  ],
+  "email": "yenhuynam.29536@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Lê Văn",
+  "malop": "DHKTPM14A",
+  "mssv": "18278931",
+  "ngaysinh": {
+    "$date": "2000-05-12T00:00:00Z"
+  },
+  "ten": "Hoàng"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a0a"
+  },
+  "diemTB": 1,
+  "dsDienthoai": [
+    "0355992609"
+  ],
+  "email": "hnam2982@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Uông Tiến",
+  "malop": "DHKTPM13CCLC",
+  "mssv": "17291191",
+  "ngaysinh": {
+    "$date": "1999-12-23T00:00:00Z"
+  },
+  "ten": "Minh"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a0b"
+  },
+  "diemTB": 0,
+  "dsDienthoai": [
+    "0842144664"
+  ],
+  "email": "badao@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Trần Đông",
+  "malop": "DHKHMT15C",
+  "mssv": "19375721",
+  "ngaysinh": {
+    "$date": "2001-06-01T00:00:00Z"
+  },
+  "ten": "Nguyễn"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a0c"
+  },
+  "diemTB": 0.5,
+  "dsDienthoai": [
+    "0386976210"
+  ],
+  "email": "harem1.0@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Phan Nhật",
+  "malop": "DHKTPM15ACLC",
+  "mssv": "19320041",
+  "ngaysinh": {
+    "$date": "2001-06-02T00:00:00Z"
+  },
+  "ten": "Quang"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a0d"
+  },
+  "diemTB": 2,
+  "dsDienthoai": [
+    "0967423055"
+  ],
+  "email": "duy12c4ntt@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Chí",
+  "malop": "DHKTPM13BCLC",
+  "mssv": "17688561",
+  "ngaysinh": {
+    "$date": "1999-01-09T00:00:00Z"
+  },
+  "ten": "Minh"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a0e"
+  },
+  "diemTB": 0.5,
+  "dsDienthoai": [
+    "0965142520"
+  ],
+  "email": "oved@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Uông Tiến",
+  "malop": "DHKHMT15C",
+  "mssv": "19553661",
+  "ngaysinh": {
+    "$date": "2001-06-09T00:00:00Z"
+  },
+  "ten": "Đình"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a0f"
+  },
+  "diemTB": 0.25,
+  "dsDienthoai": [
+    "0816774638"
+  ],
+  "email": "hchaunguyenmtp@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Bùi Quang",
+  "malop": "DHKTPM15C",
+  "mssv": "19247801",
+  "ngaysinh": {
+    "$date": "2001-04-01T00:00:00Z"
+  },
+  "ten": "Nguyễn"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a10"
+  },
+  "diemTB": 4.5,
+  "dsDienthoai": [
+    "0396389454"
+  ],
+  "email": "nhung505@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Hoàng Tiến",
+  "malop": "DHKTPM15C",
+  "mssv": "19917511",
+  "ngaysinh": {
+    "$date": "2001-08-17T00:00:00Z"
+  },
+  "ten": "Vương"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a11"
+  },
+  "diemTB": 2.5,
+  "dsDienthoai": [
+    "0976287650"
+  ],
+  "email": "ibinhqt9@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Lê Minh",
+  "malop": "DHKHMT14A",
+  "mssv": "18557771",
+  "ngaysinh": {
+    "$date": "2000-04-15T00:00:00Z"
+  },
+  "ten": "TrungHoàng"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a12"
+  },
+  "diemTB": 3.75,
+  "dsDienthoai": [
+    "0975803721"
+  ],
+  "email": "harem1.0@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phan Văn",
+  "malop": "DHKHMT15B",
+  "mssv": "19820081",
+  "ngaysinh": {
+    "$date": "2001-03-04T00:00:00Z"
+  },
+  "ten": "Thị"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a13"
+  },
+  "diemTB": 1.25,
+  "dsDienthoai": [
+    "0842369653"
+  ],
+  "email": "uan552000@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Hoàng Văn",
+  "malop": "DHKTPM15A",
+  "mssv": "19416691",
+  "ngaysinh": {
+    "$date": "2001-05-27T00:00:00Z"
+  },
+  "ten": "Đoàn"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a14"
+  },
+  "diemTB": 1.25,
+  "dsDienthoai": [
+    "0967803921"
+  ],
+  "email": "yenhuynam.29536@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Hoàng",
+  "malop": "DHKTPM13A",
+  "mssv": "17717401",
+  "ngaysinh": {
+    "$date": "1999-03-16T00:00:00Z"
+  },
+  "ten": "Vũ"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a15"
+  },
+  "diemTB": 2.25,
+  "dsDienthoai": [
+    "0381984648"
+  ],
+  "email": "badao@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Vũ Lâm",
+  "malop": "DHKTPM15B",
+  "mssv": "19825501",
+  "ngaysinh": {
+    "$date": "2001-05-24T00:00:00Z"
+  },
+  "ten": "Nguyễn"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a16"
+  },
+  "diemTB": 2,
+  "dsDienthoai": [
+    "0352678623"
+  ],
+  "email": "ngbedaxanh@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Tiến",
+  "malop": "DHKTPM14B",
+  "mssv": "18988231",
+  "ngaysinh": {
+    "$date": "2000-08-15T00:00:00Z"
+  },
+  "ten": "Tuấn"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a17"
+  },
+  "diemTB": 1.75,
+  "dsDienthoai": [
+    "0968429779"
+  ],
+  "email": "ibinhqt9@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Thái",
+  "malop": "DHKTPM13CCLC",
+  "mssv": "17871921",
+  "ngaysinh": {
+    "$date": "1999-03-16T00:00:00Z"
+  },
+  "ten": "Hà"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a18"
+  },
+  "diemTB": 2.25,
+  "dsDienthoai": [
+    "0389468419"
+  ],
+  "email": "hnam2982@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Phan Trọng",
+  "malop": "DHKTPM15BCLC",
+  "mssv": "19801541",
+  "ngaysinh": {
+    "$date": "2001-08-04T00:00:00Z"
+  },
+  "ten": "Đoàn"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a19"
+  },
+  "diemTB": 2.25,
+  "dsDienthoai": [
+    "0372121466"
+  ],
+  "email": "loc087@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Anh",
+  "malop": "DHKHMT14B",
+  "mssv": "18844491",
+  "ngaysinh": {
+    "$date": "2000-08-17T00:00:00Z"
+  },
+  "ten": "Minh"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a1a"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0975251151"
+  ],
+  "email": "uu130375@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Vũ Lâm",
+  "malop": "DHKHMT14A",
+  "mssv": "18684941",
+  "ngaysinh": {
+    "$date": "2000-04-10T00:00:00Z"
+  },
+  "ten": "Vũ"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a1b"
+  },
+  "diemTB": 0.25,
+  "dsDienthoai": [
+    "0846248726"
+  ],
+  "email": "hokute99@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Nguyễn Thanh",
+  "malop": "DHKHMT13B",
+  "mssv": "17142731",
+  "ngaysinh": {
+    "$date": "1999-08-15T00:00:00Z"
+  },
+  "ten": "Lê"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a1c"
+  },
+  "diemTB": 2,
+  "dsDienthoai": [
+    "0368112495"
+  ],
+  "email": "nghinh2809hui@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Phan Nhật",
+  "malop": "DHKHMT15B",
+  "mssv": "19464301",
+  "ngaysinh": {
+    "$date": "2001-06-22T00:00:00Z"
+  },
+  "ten": "Ngô"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a1d"
+  },
+  "diemTB": 3.75,
+  "dsDienthoai": [
+    "0343811893"
+  ],
+  "email": "ot6jk@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Ngô Quốc",
+  "malop": "DHKHMT14A",
+  "mssv": "18303561",
+  "ngaysinh": {
+    "$date": "2000-01-08T00:00:00Z"
+  },
+  "ten": "Trần"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a1e"
+  },
+  "diemTB": 0.25,
+  "dsDienthoai": [
+    "0169339519"
+  ],
+  "email": "ngkc35@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Hoàng Tiến",
+  "malop": "DHKTPM15C",
+  "mssv": "19586201",
+  "ngaysinh": {
+    "$date": "2001-08-05T00:00:00Z"
+  },
+  "ten": "Bá"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a1f"
+  },
+  "diemTB": 3.5,
+  "dsDienthoai": [
+    "0341270863"
+  ],
+  "email": "loc087@gmail.com",
+  "gioitinh": "Nữ",
+  "ho": "Lê Minh",
+  "malop": "DHKHMT15B",
+  "mssv": "19937411",
+  "ngaysinh": {
+    "$date": "2001-08-01T00:00:00Z"
+  },
+  "ten": "Nguyễn"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a20"
+  },
+  "diemTB": 1.25,
+  "dsDienthoai": [
+    "0343452932"
+  ],
+  "email": "iphong19991@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Nguyễn Dương Minh",
+  "malop": "DHKHMT15B",
+  "mssv": "19441801",
+  "ngaysinh": {
+    "$date": "2001-07-25T00:00:00Z"
+  },
+  "ten": "Thị"
+},{
+  "_id": {
+    "$oid": "6131a2bb50cb180598849a21"
+  },
+  "diemTB": 4,
+  "dsDienthoai": [
+    "0965308325"
+  ],
+  "email": "hhaphuc99@gmail.com",
+  "gioitinh": "Nam",
+  "ho": "Phan Nhật",
+  "malop": "DHKTPM13C",
+  "mssv": "17669941",
+  "ngaysinh": {
+    "$date": "1999-02-03T00:00:00Z"
+  },
+  "ten": "Nhật"
+}]
