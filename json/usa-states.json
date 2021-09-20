@@ -4,34 +4,34 @@
         "StateName": "Alabama",
         "Abbreviation": "AL",
         "Capital": "Montgomery",
-        "StateHoodYear": 1819
+        "Statehood": 1819
     },
     {
         "ID": 2,
         "StateName": "Alaska",
         "Abbreviation": "AK",
         "Capital": "Juneau",
-        "StateHoodYear": 1959
+        "Statehood": 1959
     },
     {
         "ID": 3,
         "StateName": "American Samoa",
         "Abbreviation": "AS",
         "Capital": "Pago Pago",
-        "StateHoodYear": 1899
+        "Statehood": 1819
     },
     {
         "ID": 4,
         "StateName": "Arizona",
         "Abbreviation": "AZ",
         "Capital": "Phoenix",
-        "StateHoodYear": 1912
+        "Statehood": 1912
     },
     {
         "ID": 5,
         "StateName": "Arkansas",
         "Abbreviation": "AR",
         "Capital": "Little Rock",
-        "StateHoodYear": 1836
+        "Statehood": 1836
     }
 ]

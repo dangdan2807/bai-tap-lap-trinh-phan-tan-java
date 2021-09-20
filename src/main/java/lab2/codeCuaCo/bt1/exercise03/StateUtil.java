@@ -13,47 +13,37 @@ import javax.json.JsonValue;
 import lab2.codeCuaCo.bt1.entity.State;
 
 public class StateUtil {
-	
+
 	private JsonReader reader;
 
 	public StateUtil() {
 		try {
-			reader = Json.createReader(new FileReader("data/usa-states.json"));
+			reader = Json.createReader(new FileReader("json/usa-states.json"));
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public State findByAb(String abb) {
-		
-		JsonArray ja = reader.readArray();
-		for(JsonValue jv : ja) {
-			if(jv instanceof  JsonObject) {
-				JsonObject jo = jv.asJsonObject();
-				
-				String abbreviation = jo.getString("Abbreviation");
-				if(abbreviation.equalsIgnoreCase(abb)) {
-					State state = new State(jo.getJsonNumber("ID").longValue(), 
-							jo.getString("StateName"),
-							jo.getString("Abbreviation"),
-							jo.getString("Capital"),
-							jo.getInt("Statehood"));
-					
+		JsonArray jArray = reader.readArray();
+		for (JsonValue JItem : jArray) {
+			if (JItem instanceof JsonObject) {
+				JsonObject jObj = JItem.asJsonObject();
+				String abbreviation = jObj.getString("Abbreviation");
+				if (abbreviation.equalsIgnoreCase(abb)) {
+					State state = new State(jObj.getJsonNumber("ID").longValue(), jObj.getString("StateName"),
+							jObj.getString("Abbreviation"), jObj.getString("Capital"), jObj.getInt("Statehood"));
 					return state;
 				}
 			}
 		}
-		
 		return null;
 	}
-	
-	public ArrayList<State>findByYear(int year){
-		
-		
+
+	public ArrayList<State> findByYear(int year) {
 		return null;
 	}
-	
-	
+
 	public void close() {
 		reader.close();
 	}

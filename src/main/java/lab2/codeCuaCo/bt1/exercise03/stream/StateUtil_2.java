@@ -15,9 +15,7 @@ import lab2.codeCuaCo.bt1.entity.State;
 
 public class StateUtil_2 {
 
-
 	private JsonParser parser;
-
 
 	public StateUtil_2() {
 		try {
@@ -28,29 +26,25 @@ public class StateUtil_2 {
 	}
 
 	public State findByAb(String abb) {
-
 		return null;
 	}
 
-	public ArrayList<State>findByYear(int year){
+	public ArrayList<State> findByYear(int year) {
 
 		ArrayList<State> list = new ArrayList<State>();
 
-		if(parser.hasNext()) {
+		if (parser.hasNext()) {
 			Event event = parser.next();
-			if(event == Event.START_ARRAY) {
+			if (event == Event.START_ARRAY) {
 				JsonArray ja = parser.getArray();
-				for(JsonValue jv : ja) {
-					if(jv instanceof  JsonObject) {
+				for (JsonValue jv : ja) {
+					if (jv instanceof JsonObject) {
 						JsonObject jo = jv.asJsonObject();
 
 						int y = jo.getInt("Statehood");
-						if(y != -1 && y < year) {
-							State state = new State(jo.getJsonNumber("ID").longValue(), 
-									jo.getString("StateName"),
-									jo.getString("Abbreviation"),
-									jo.getString("Capital"),
-									jo.getInt("Statehood"));
+						if (y != -1 && y < year) {
+							State state = new State(jo.getJsonNumber("ID").longValue(), jo.getString("StateName"),
+									jo.getString("Abbreviation"), jo.getString("Capital"), jo.getInt("Statehood"));
 
 							list.add(state);
 						}
@@ -60,7 +54,6 @@ public class StateUtil_2 {
 		}
 		return list;
 	}
-
 
 	public void close() {
 		parser.close();

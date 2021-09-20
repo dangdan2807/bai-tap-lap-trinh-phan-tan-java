@@ -1,0 +1,17 @@
+
+{
+    "state5": {
+        "id": 5,
+        "stateName": "Arkansas",
+        "abbreviation": "AR",
+        "capital": "Little Rock",
+        "statehood": 1836
+    },
+    "state1": {
+        "id": 1,
+        "stateName": "Alabama",
+        "abbreviation": "AL",
+        "capital": "Montgomery",
+        "statehood": 1819
+    }
+}
